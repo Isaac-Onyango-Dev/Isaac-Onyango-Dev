@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1012" height="108"
+     viewBox="0 0 1012 108" role="img" aria-label="Build it manually. Understand it deeply. Ship it cleanly.">
+  <title>Build it manually. Understand it deeply. Ship it cleanly.</title>
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#131a24"/>
+      <stop offset="55%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#07111f"/>
+    </linearGradient>
+    <linearGradient id="fink" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f0883e"/>
+      <stop offset="100%" stop-color="#58a6ff"/>
+    </linearGradient>
+    <pattern id="fgrid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#58a6ff" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <clipPath id="fframe"><rect width="1012" height="108" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#fframe)">
+    <rect width="1012" height="108" fill="url(#fbg)"/>
+    <rect width="1012" height="108" fill="url(#fgrid)"/>
+
+  <g transform="translate(930 54)" opacity="0.5">
+    <g>
+      <path d="M 35.00,0.00 L 45.89,3.15 L 44.92,9.91 L 33.58,9.86 L 32.76,12.32 L 29.44,18.92 L 36.90,27.46 L 32.43,32.62 L 22.92,26.45 L 20.89,28.08 L 14.54,31.84 L 16.20,43.05 L 9.65,44.98 L 4.98,34.64 L 2.40,34.92 L -4.98,34.64 L -9.65,44.98 L -16.20,43.05 L -14.54,31.84 L -16.86,30.67 L -22.92,26.45 L -32.43,32.62 L -36.90,27.46 L -29.44,18.92 L -30.77,16.69 L -33.58,9.86 L -44.92,9.91 L -45.89,3.15 L -35.00,-0.00 L -34.90,-2.60 L -33.58,-9.86 L -43.15,-15.95 L -40.31,-22.16 L -29.44,-18.92 L -27.96,-21.05 L -22.92,-26.45 L -27.67,-36.75 L -21.93,-40.44 L -14.54,-31.84 L -12.14,-32.83 L -4.98,-34.64 L -3.41,-45.87 L 3.41,-45.87 L 4.98,-34.64 L 7.54,-34.18 L 14.54,-31.84 L 21.93,-40.44 L 27.67,-36.75 L 22.92,-26.45 L 24.82,-24.68 L 29.44,-18.92 L 40.31,-22.16 L 43.15,-15.95 L 33.58,-9.86 L 34.22,-7.34 Z" fill="none" stroke="#58a6ff" stroke-width="2.2"
+            stroke-linejoin="round"/>
+      <circle r="16.0" fill="none" stroke="#58a6ff" stroke-width="2.2"/>
+      <circle r="5.1" fill="#58a6ff" fill-opacity="0.5"/>
+      <animateTransform attributeName="transform" type="rotate"
+        from="0 0 0" to="360 0 0" dur="22s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <g transform="translate(872 96)" opacity="0.45">
+    <g>
+      <path d="M 20.00,0.00 L 26.88,2.54 L 25.81,7.94 L 18.48,7.65 L 17.60,9.50 L 14.14,14.14 L 17.21,20.80 L 12.63,23.86 L 7.65,18.48 L 5.73,19.16 L 0.00,20.00 L -2.54,26.88 L -7.94,25.81 L -7.65,18.48 L -9.50,17.60 L -14.14,14.14 L -20.80,17.21 L -23.86,12.63 L -18.48,7.65 L -19.16,5.73 L -20.00,0.00 L -26.88,-2.54 L -25.81,-7.94 L -18.48,-7.65 L -17.60,-9.50 L -14.14,-14.14 L -17.21,-20.80 L -12.63,-23.86 L -7.65,-18.48 L -5.73,-19.16 L -0.00,-20.00 L 2.54,-26.88 L 7.94,-25.81 L 7.65,-18.48 L 9.50,-17.60 L 14.14,-14.14 L 20.80,-17.21 L 23.86,-12.63 L 18.48,-7.65 L 19.16,-5.73 Z" fill="none" stroke="#f0883e" stroke-width="2.2"
+            stroke-linejoin="round"/>
+      <circle r="9.0" fill="none" stroke="#f0883e" stroke-width="2.2"/>
+      <circle r="2.9" fill="#f0883e" fill-opacity="0.5"/>
+      <animateTransform attributeName="transform" type="rotate"
+        from="360 0 0" to="0 0 0" dur="15s" repeatCount="indefinite"/>
+    </g>
+  </g>
+    <text x="44" y="52" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="19"
+          font-weight="700" fill="url(#fink)" letter-spacing="1.1">
+      Build it manually. Understand it deeply. Ship it cleanly.
+    </text>
+    <text x="44" y="76" font-family="Consolas,monospace" font-size="12" fill="#8b949e">
+      GEARS &#183; Nairobi, Kenya &#183; isaaco62800@gmail.com
+    </text>
+<rect x="44" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.320"/><rect x="68" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.312"/><rect x="92" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.305"/><rect x="116" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.297"/><rect x="140" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.290"/><rect x="164" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.283"/><rect x="188" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.275"/><rect x="212" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.268"/><rect x="236" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.260"/><rect x="260" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.253"/><rect x="284" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.245"/><rect x="308" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.238"/><rect x="332" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.230"/><rect x="356" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.223"/><rect x="380" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.215"/><rect x="404" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.208"/><rect x="428" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.200"/><rect x="452" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.193"/><rect x="476" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.185"/><rect x="500" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.178"/><rect x="524" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.170"/><rect x="548" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.163"/><rect x="572" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.155"/><rect x="596" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.148"/><rect x="620" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.140"/><rect x="644" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.133"/><rect x="668" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.125"/><rect x="692" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.118"/><rect x="716" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.110"/><rect x="740" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.103"/><rect x="764" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.095"/><rect x="788" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.088"/><rect x="812" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.080"/><rect x="836" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.073"/><rect x="860" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.065"/><rect x="884" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.057"/><rect x="908" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.050"/><rect x="932" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.043"/><rect x="956" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.035"/><rect x="980" y="92" width="9" height="2" rx="1" fill="#f0883e" fill-opacity="0.028"/>
+    <rect x="0.75" y="0.75" width="1010.5" height="106.5" rx="18" fill="none"
+          stroke="#1f6feb" stroke-opacity="0.4" stroke-width="1.5"/>
+  </g>
+</svg>

@@ -1,296 +1,268 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     ISAAC ONYANGO — GitHub Profile README
-     Repo: Isaac-Onyango-Dev/Isaac-Onyango-Dev
-     ═══════════════════════════════════════════════════════════════ -->
+<!--
+  ISAAC ONYANGO — GitHub profile README
+  Repo: Isaac-Onyango-Dev/Isaac-Onyango-Dev
 
-<!-- ╔══════════════════════════════════╗ -->
-<!-- ║         ANIMATED HEADER          ║ -->
-<!-- ╚══════════════════════════════════╝ -->
+  The stat cards in this file are generated into /assets by
+  scripts/build_profile.py and refreshed daily by .github/workflows/profile.yml.
+  Nothing here depends on a third-party stats service.
+-->
+
+<div align="center">
+  <a href="https://github.com/Isaac-Onyango-Dev?tab=repositories">
+    <img src="./assets/header.svg" width="100%" alt="Isaac Onyango — Full-Stack Developer, Nairobi, Kenya"/>
+  </a>
+</div>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Isaac%20Onyango&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=⚙️%20GEARS%20%7C%20Software%20That%20Fits&descAlignY=56&descAlign=50&descSize=20&descColor=a0cfff" width="100%"/>
-
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=650&height=70&lines=Full-Stack+Developer+%F0%9F%92%BB;Open-Source+Builder+%F0%9F%94%A7;CS+Student+%40+TVET+CDACC+Level+6+%F0%9F%8E%93;Graphic+Designer+%26+Digital+Creator+%F0%9F%8E%A8;Building+Software+That+Fits+%E2%9A%99%EF%B8%8F;Based+in+Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA)](https://git.io/typing-svg)
-
-<!-- Badges Row -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Isaac-Onyango-Dev&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" alt="Profile Views"/>
-  &nbsp;
-  <a href="https://github.com/Isaac-Onyango-Dev?tab=followers">
-    <img src="https://img.shields.io/github/followers/Isaac-Onyango-Dev?label=Followers&style=for-the-badge&color=1f6feb&labelColor=0d1117" alt="Followers"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work"/>
-</p>
+[![Repositories](https://img.shields.io/badge/⬡_All_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=161B22)](https://github.com/Isaac-Onyango-Dev?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/⬡_Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=3FB950&labelColor=161B22)](https://isaac-onyango-dev.github.io/My-Portfolio/)
+[![Email](https://img.shields.io/badge/⬡_Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0883E&labelColor=161B22)](mailto:isaaco62800@gmail.com)
+[![Followers](https://img.shields.io/github/followers/Isaac-Onyango-Dev?style=for-the-badge&label=FOLLOWERS&color=1F6FEB&labelColor=161B22)](https://github.com/Isaac-Onyango-Dev?tab=followers)
+[![Open to work](https://img.shields.io/badge/Open_to_work-3FB950?style=for-the-badge&labelColor=161B22)](mailto:isaaco62800@gmail.com)
 
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════╗ -->
-<!-- ║          ABOUT ME SECTION        ║ -->
-<!-- ╚══════════════════════════════════╝ -->
+## &nbsp;`01`&nbsp; About
 
-<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="150" src="./Gears.png" alt="GEARS brand mark"/>
 
-## 👤 &nbsp; About Me
+I build software that fits the problem it was made for. My work runs across
+desktop, web and mobile, and most of it starts the same way: take something
+people do by hand, understand every step of it, then ship a tool that does it
+cleanly.
 
-```yaml
-Name     : Isaac Onyango
-Location : Nairobi, Kenya 🇰🇪
-Brand    : GEARS ⚙️  — "Software That Fits"
-           Media Grub 🐛 — "Software That Grows"
-Status   : Student · Builder · Creator
-```
-
-- 🎓 &nbsp; **TVET CDACC KNQF Level 6** — Computer Science
-- 🔭 &nbsp; Currently shipping **[MediaGrab](https://github.com/Isaac-Onyango-Dev/MediaGrab)** — multi-platform media downloader (Desktop + API + Mobile)
-- 🌱 &nbsp; Actively studying **AI/ML**, **Distributed Systems**, and **Advanced Networking**
-- 🎨 &nbsp; Original **manga** worldbuilder — full story bibles, power systems, lore
-- 💡 &nbsp; Philosophy: *Build it manually. Understand it deeply. Ship it cleanly.*
-- 🤝 &nbsp; Open to **freelance work**, **collaborations**, and **open-source contributions**
-- 📫 &nbsp; Reach me at **[isaaco62800@gmail.com](mailto:isaaco62800@gmail.com)**
+| | |
+|:--|:--|
+| **Focus** | Full-stack product work — TypeScript front ends on Python and Node services |
+| **Currently** | [StreamDock](https://github.com/Isaac-Onyango-Dev/StreamDock) and [Internet Download Hub](https://github.com/Isaac-Onyango-Dev/Internet-Download-Hub) — cross-platform media tooling on Electron, yt-dlp and FFmpeg |
+| **Studying** | TVET CDACC KNQF Level 6, Computer Science · distributed systems · applied ML |
+| **Also** | Graphic design, motion and original manga worldbuilding |
+| **Based in** | Nairobi, Kenya 🇰🇪 |
+| **Open to** | Freelance work, collaborations, open-source contributions |
+| **Philosophy** | *Build it manually. Understand it deeply. Ship it cleanly.* |
 
 <br clear="right"/>
 
 ---
 
-<!-- ╔══════════════════════════════════╗ -->
-<!-- ║        SNAKE CONTRIBUTION        ║ -->
-<!-- ╚══════════════════════════════════╝ -->
+## &nbsp;`02`&nbsp; Repositories
+
+> Every project below links straight to its source and, where one exists, a live build.
+> This table rebuilds itself daily, so it never falls behind the account.
+
+<!-- REPOS:START -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [Internet-Download-Hub](https://github.com/Isaac-Onyango-Dev/Internet-Download-Hub)
+
+Internet Download Hub is a free Windows desktop application that lets you download videos from over 1000 websites…
+
+`TypeScript` &nbsp;·&nbsp; ★ 1 &nbsp;·&nbsp; `downloader` `electron-app` `ffmpeg`
+
+<a href="https://github.com/Isaac-Onyango-Dev/Internet-Download-Hub"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://isaac-onyango-dev.github.io/Internet-Download-Hub/"><img src="https://img.shields.io/badge/Live%20Demo-3178C6?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+#### [Complex-Developers-Web](https://github.com/Isaac-Onyango-Dev/Complex-Developers-Web)
+
+This is the official complex developers website where we offer a vast majority of services
+
+`TypeScript` &nbsp;·&nbsp; ★ 1
+
+<a href="https://github.com/Isaac-Onyango-Dev/Complex-Developers-Web"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://complex-developers-web.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-3178C6?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [StreamDock](https://github.com/Isaac-Onyango-Dev/StreamDock)
+
+No description yet.
+
+`TypeScript` &nbsp;·&nbsp; `cross-platform` `downloader` `electron`
+
+<a href="https://github.com/Isaac-Onyango-Dev/StreamDock"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://isaac-onyango-dev.github.io/StreamDock/"><img src="https://img.shields.io/badge/Live%20Demo-3178C6?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+#### [My-Portfolio](https://github.com/Isaac-Onyango-Dev/My-Portfolio)
+
+Isaac Onyango's Portfolio
+
+`JavaScript`
+
+<a href="https://github.com/Isaac-Onyango-Dev/My-Portfolio"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://isaac-onyango-dev.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Live%20Demo-F7DF1E?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [KeyHunter](https://github.com/Isaac-Onyango-Dev/KeyHunter)
+
+No description yet.
+
+`Mixed`
+
+<a href="https://github.com/Isaac-Onyango-Dev/KeyHunter"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+#### [Streamer-Hub](https://github.com/Isaac-Onyango-Dev/Streamer-Hub)
+
+No description yet.
+
+`TypeScript`
+
+<a href="https://github.com/Isaac-Onyango-Dev/Streamer-Hub"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://isaac-onyango-dev.github.io/Streamer-Hub/"><img src="https://img.shields.io/badge/Live%20Demo-3178C6?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [MediaGrab](https://github.com/Isaac-Onyango-Dev/MediaGrab)
+
+No description yet.
+
+`Python`
+
+<a href="https://github.com/Isaac-Onyango-Dev/MediaGrab"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://isaac-onyango-dev.github.io/MediaGrab/"><img src="https://img.shields.io/badge/Live%20Demo-3776AB?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+#### [ScamShield](https://github.com/Isaac-Onyango-Dev/ScamShield)
+
+This app helps users detect and report suspicious online job and service scams.
+
+`TypeScript` &nbsp;·&nbsp; `audit` `scam` `security`
+
+<a href="https://github.com/Isaac-Onyango-Dev/ScamShield"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://isaac-onyango-dev.github.io/ScamShield/"><img src="https://img.shields.io/badge/Live%20Demo-3178C6?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [daniel](https://github.com/Isaac-Onyango-Dev/daniel)
+
+No description yet.
+
+`HTML`
+
+<a href="https://github.com/Isaac-Onyango-Dev/daniel"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
+
+</td>
+<td width="50%"></td>
+</tr>
+</table>
+<!-- REPOS:END -->
 
 <div align="center">
 
-## 🐍 &nbsp; Contribution Snake
+[![Browse every repository](https://img.shields.io/badge/Browse_every_repository-1F6FEB?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Isaac-Onyango-Dev?tab=repositories)
+
+</div>
+
+---
+
+## &nbsp;`03`&nbsp; Toolchain
+
+<table>
+<tr><td width="150"><b>Languages</b></td><td>
+<img src="https://skillicons.dev/icons?i=typescript,python,javascript,dart,java,kotlin,php,bash&theme=dark&perline=8" alt="Languages"/>
+</td></tr>
+<tr><td><b>Front end</b></td><td>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,sass,flutter&theme=dark&perline=8" alt="Front end"/>
+</td></tr>
+<tr><td><b>Back end</b></td><td>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,django,electron,dotnet&theme=dark&perline=8" alt="Back end"/>
+</td></tr>
+<tr><td><b>Data</b></td><td>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,supabase,firebase,redis&theme=dark&perline=8" alt="Data"/>
+</td></tr>
+<tr><td><b>Platform</b></td><td>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,cloudflare,linux&theme=dark&perline=8" alt="Platform"/>
+</td></tr>
+<tr><td><b>Design</b></td><td>
+<img src="https://skillicons.dev/icons?i=figma,blender,ai,ps&theme=dark&perline=8" alt="Design"/>
+</td></tr>
+</table>
+
+---
+
+## &nbsp;`04`&nbsp; By the numbers
+
+<div align="center">
+
+<img src="./assets/stats.svg" width="49%" alt="Engineering metrics"/>
+&nbsp;
+<img src="./assets/languages.svg" width="49%" alt="Language distribution"/>
+
+<img src="./assets/activity.svg" width="100%" alt="Contribution activity for the last year"/>
+
+</div>
+
+---
+
+## &nbsp;`05`&nbsp; Contribution snake
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Isaac-Onyango-Dev/Isaac-Onyango-Dev/output/github-contribution-grid-snake-dark.svg" />
+    srcset="https://raw.githubusercontent.com/Isaac-Onyango-Dev/Isaac-Onyango-Dev/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Isaac-Onyango-Dev/Isaac-Onyango-Dev/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" width="100%"
-    src="https://raw.githubusercontent.com/Isaac-Onyango-Dev/Isaac-Onyango-Dev/output/github-contribution-grid-snake.svg" />
+    srcset="https://raw.githubusercontent.com/Isaac-Onyango-Dev/Isaac-Onyango-Dev/output/github-contribution-grid-snake.svg"/>
+  <img alt="The snake eating my contribution graph" width="100%"
+    src="https://raw.githubusercontent.com/Isaac-Onyango-Dev/Isaac-Onyango-Dev/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════╗ -->
-<!-- ║          TECH STACK              ║ -->
-<!-- ╚══════════════════════════════════╝ -->
+## &nbsp;`06`&nbsp; Roadmap
 
-<div align="center">
-
-## 🛠️ &nbsp; Tech Stack & Tools
-
-### 💬 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,dart,php,kotlin,html,css,powershell&theme=dark&perline=10" />
-</p>
-
-### 🌐 Frontend & Mobile
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,flutter&theme=dark&perline=10" />
-</p>
-
-### ⚙️ Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express,dotnet&theme=dark&perline=10" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,supabase,firebase&theme=dark&perline=10" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=github,githubactions,vercel,cloudflare,render,git&theme=dark&perline=10" />
-</p>
-
-### 🎨 Design & Creative
-<p>
-  <img src="https://skillicons.dev/icons?i=blender,figma,canva&theme=dark&perline=5" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Affinity%20Designer-1B72BE?style=for-the-badge&logo=affinity-designer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Affinity%20Photo-7E4DD2?style=for-the-badge&logo=affinity-photo&logoColor=white" />
-</p>
-
-### 🤖 AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=5" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════╗ -->
-<!-- ║         GITHUB STATS             ║ -->
-<!-- ╚══════════════════════════════════╝ -->
-
-<div align="center">
-
-## 📊 &nbsp; GitHub Analytics
-
-<p>
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Isaac-Onyango-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"
-    alt="GitHub Stats" />
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Onyango-Dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9"
-    alt="Top Languages" />
-</p>
-
-<!-- Streak Stats -->
-<img
-  src="https://github-readme-streak-stats.herokuapp.com?user=Isaac-Onyango-Dev&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=1f6feb&ring=58a6ff&fire=ff7b00&currStreakLabel=58a6ff"
-  alt="GitHub Streak" width="60%" />
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════╗ -->
-<!-- ║        ACTIVITY GRAPH            ║ -->
-<!-- ╚══════════════════════════════════╝ -->
-
-<div align="center">
-
-## 📈 &nbsp; Contribution Activity
-
-[![Isaac's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Isaac-Onyango-Dev&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Isaac%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════╗ -->
-<!-- ║          GITHUB TROPHIES         ║ -->
-<!-- ╚══════════════════════════════════╝ -->
-
-<div align="center">
-
-## 🏆 &nbsp; GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Isaac-Onyango-Dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" alt="Trophies" />
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════╗ -->
-<!-- ║       FEATURED PROJECTS          ║ -->
-<!-- ╚══════════════════════════════════╝ -->
-
-## 🚀 &nbsp; Featured Projects
-
-<div align="center">
-
-| ⚙️ GEARS | 🐛 Media Grub |
-|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/Isaac-Onyango-Dev/Isaac-Onyango-Dev/main/Gears.png" width="180" alt="Gears Logo"/> | <img src="https://raw.githubusercontent.com/Isaac-Onyango-Dev/Isaac-Onyango-Dev/main/Media_Grub.png" width="180" alt="Media Grub Logo"/> |
-| **Software That Fits** | **Software That Grows** |
-| The parent brand powering clean, purposeful software solutions. | Multi-platform media downloader — Desktop · FastAPI · React Native |
-| [![Visit](https://img.shields.io/badge/GitHub-GEARS-6e40c9?style=for-the-badge&logo=github)](https://github.com/Isaac-Onyango-Dev) | [![Repo](https://img.shields.io/badge/GitHub-MediaGrab-ff7b00?style=for-the-badge&logo=github)](https://github.com/Isaac-Onyango-Dev/MediaGrab) |
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════╗ -->
-<!-- ║       LEARNING ROADMAP           ║ -->
-<!-- ╚══════════════════════════════════╝ -->
-
-## 📚 &nbsp; Learning Roadmap
-
-```
+```text
 TVET CDACC KNQF Level 6 — Computer Science
 │
-├── ✅  Networking Fundamentals ............ Completed
-├── ✅  Graphic Design & Digital Media ..... Completed  
-├── 🔄  Web Development ................... In Progress
-│        └── React · TypeScript · FastAPI · Next.js
-├── 🔄  Database Management ............... In Progress
-│        └── PostgreSQL · MongoDB · Supabase · Redis
-├── 🔄  Python & Scripting Automation ..... In Progress
-│        └── Automation · CLI Tools · APIs
-├── 🔜  Distributed Systems & Networking .. Upcoming
-│        └── Docker · Microservices · Load Balancing
-└── 🔜  AI / ML & Neural Networks ......... Upcoming
-         └── TensorFlow · PyTorch · LLM Integration
+├── [done]  Networking fundamentals
+├── [done]  Graphic design & digital media
+├── [wip ]  Web development ........... React · TypeScript · Next.js · FastAPI
+├── [wip ]  Database management ....... PostgreSQL · MongoDB · Supabase · Redis
+├── [wip ]  Python & automation ....... CLI tooling · APIs · scripting
+├── [next]  Distributed systems ....... Docker · microservices · load balancing
+└── [next]  AI / ML .................... TensorFlow · PyTorch · LLM integration
 ```
 
 ---
 
-<!-- ╔══════════════════════════════════╗ -->
-<!-- ║           SOCIALS                ║ -->
-<!-- ╚══════════════════════════════════╝ -->
+## &nbsp;`07`&nbsp; Elsewhere
 
 <div align="center">
 
-## 🌐 &nbsp; Connect With Me
-
-<p>
-  <a href="https://discord.gg/mao10018">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/Isaac%20Onyango">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/isaac62800">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://reddit.com/user/Tricky_Fill8539">
-    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" />
-  </a>
-  <a href="https://tiktok.com/@iz_c25">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" />
-  </a>
-  <a href="https://x.com/isaaco62800">
-    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" />
-  </a>
-  <a href="https://mastodon.social/@Isaac%20Onyango">
-    <img src="https://img.shields.io/badge/-Mastodon-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" />
-  </a>
-  <a href="mailto:isaaco62800@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-### 💰 &nbsp; Support My Work
-
-<p>
-  <a href="https://patreon.com/gearsdev">
-    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://ko-fi.com/gearsdev">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
-  </a>
-</p>
+[![X](https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/isaaco62800)
+[![Discord](https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.gg/mao10018)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/isaac62800)
+[![TikTok](https://img.shields.io/badge/TikTok-0D1117?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@iz_c25)
+[![Reddit](https://img.shields.io/badge/Reddit-0D1117?style=for-the-badge&logo=reddit&logoColor=FF4500)](https://reddit.com/user/Tricky_Fill8539)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-0D1117?style=for-the-badge&logo=kofi&logoColor=F16061)](https://ko-fi.com/gearsdev)
+[![Patreon](https://img.shields.io/badge/Patreon-0D1117?style=for-the-badge&logo=patreon&logoColor=F96854)](https://patreon.com/gearsdev)
 
 </div>
 
----
-
-<!-- Dev Quote -->
 <div align="center">
-
-### ✍️ &nbsp; Dev Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+  <br/>
+  <img src="./assets/footer.svg" width="100%" alt="Built manually. Understood deeply. Shipped cleanly."/>
 </div>
-
----
-
-<!-- ╔══════════════════════════════════╗ -->
-<!-- ║       ANIMATED FOOTER            ║ -->
-<!-- ╚══════════════════════════════════╝ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>

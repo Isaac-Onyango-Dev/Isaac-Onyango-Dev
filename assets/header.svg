@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1012" height="290"
+     viewBox="0 0 1012 290" role="img" aria-label="Isaac Onyango — full-stack developer">
+  <title>Isaac Onyango — Full-Stack Developer, Nairobi, Kenya</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07111f"/>
+      <stop offset="46%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#131a24"/>
+    </linearGradient>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="42%" stop-color="#58a6ff"/>
+      <stop offset="66%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#f0883e"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f0883e"/>
+      <stop offset="100%" stop-color="#1f6feb" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#58a6ff" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.4" r="0.55">
+      <stop offset="0%" stop-color="#1f6feb" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#1f6feb" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="blueprint" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#58a6ff" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1012" height="290" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1012" height="290" fill="url(#bg)"/>
+    <rect width="1012" height="290" fill="url(#blueprint)"/>
+    <rect width="1012" height="290" fill="url(#glow)"/>
+
+  <g transform="translate(846 132)" opacity="0.85">
+    <g>
+      <path d="M 58.00,0.00 L 73.89,3.98 L 72.93,12.56 L 56.55,12.91 L 55.70,16.18 L 52.26,25.17 L 64.85,35.65 L 60.26,42.96 L 45.35,36.16 L 43.16,38.75 L 36.16,45.35 L 42.96,60.26 L 35.65,64.85 L 25.17,52.26 L 22.08,53.63 L 12.91,56.55 L 12.56,72.93 L 3.98,73.89 L 0.00,58.00 L -3.38,57.90 L -12.91,56.55 L -20.33,71.15 L -28.47,68.30 L -25.17,52.26 L -28.17,50.70 L -36.16,45.35 L -49.19,55.29 L -55.29,49.19 L -45.35,36.16 L -47.38,33.46 L -52.26,25.17 L -68.30,28.47 L -71.15,20.33 L -56.55,12.91 L -57.20,9.59 L -58.00,0.00 L -73.89,-3.98 L -72.93,-12.56 L -56.55,-12.91 L -55.70,-16.18 L -52.26,-25.17 L -64.85,-35.65 L -60.26,-42.96 L -45.35,-36.16 L -43.16,-38.75 L -36.16,-45.35 L -42.96,-60.26 L -35.65,-64.85 L -25.17,-52.26 L -22.08,-53.63 L -12.91,-56.55 L -12.56,-72.93 L -3.98,-73.89 L -0.00,-58.00 L 3.38,-57.90 L 12.91,-56.55 L 20.33,-71.15 L 28.47,-68.30 L 25.17,-52.26 L 28.17,-50.70 L 36.16,-45.35 L 49.19,-55.29 L 55.29,-49.19 L 45.35,-36.16 L 47.38,-33.46 L 52.26,-25.17 L 68.30,-28.47 L 71.15,-20.33 L 56.55,-12.91 L 57.20,-9.59 Z" fill="none" stroke="#58a6ff" stroke-width="2.2"
+            stroke-linejoin="round"/>
+      <circle r="26.0" fill="none" stroke="#58a6ff" stroke-width="2.2"/>
+      <circle r="8.3" fill="#58a6ff" fill-opacity="0.5"/>
+      <animateTransform attributeName="transform" type="rotate"
+        from="0 0 0" to="360 0 0" dur="26s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <g transform="translate(946 214)" opacity="0.85">
+    <g>
+      <path d="M 38.00,0.00 L 49.88,3.42 L 48.83,10.77 L 36.46,10.71 L 35.57,13.38 L 31.97,20.54 L 40.11,29.85 L 35.25,35.46 L 24.88,28.72 L 22.69,30.49 L 15.79,34.57 L 17.61,46.80 L 10.49,48.89 L 5.41,37.61 L 2.60,37.91 L -5.41,37.61 L -10.49,48.89 L -17.61,46.80 L -15.79,34.57 L -18.31,33.30 L -24.88,28.72 L -35.25,35.46 L -40.11,29.85 L -31.97,20.54 L -33.40,18.12 L -36.46,10.71 L -48.83,10.77 L -49.88,3.42 L -38.00,-0.00 L -37.90,-2.82 L -36.46,-10.71 L -46.90,-17.34 L -43.82,-24.09 L -31.97,-20.54 L -30.36,-22.86 L -24.88,-28.72 L -30.08,-39.94 L -23.84,-43.95 L -15.79,-34.57 L -13.18,-35.64 L -5.41,-37.61 L -3.71,-49.86 L 3.71,-49.86 L 5.41,-37.61 L 8.18,-37.11 L 15.79,-34.57 L 23.84,-43.95 L 30.08,-39.94 L 24.88,-28.72 L 26.95,-26.79 L 31.97,-20.54 L 43.82,-24.09 L 46.90,-17.34 L 36.46,-10.71 L 37.15,-7.97 Z" fill="none" stroke="#f0883e" stroke-width="2.2"
+            stroke-linejoin="round"/>
+      <circle r="17.0" fill="none" stroke="#f0883e" stroke-width="2.2"/>
+      <circle r="5.4" fill="#f0883e" fill-opacity="0.5"/>
+      <animateTransform attributeName="transform" type="rotate"
+        from="360 0 0" to="0 0 0" dur="18s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <g transform="translate(762 236)" opacity="0.75">
+    <g>
+      <path d="M 26.00,0.00 L 33.88,2.85 L 32.81,8.91 L 24.43,8.89 L 23.53,11.07 L 19.92,16.71 L 24.13,23.96 L 19.40,27.92 L 13.00,22.52 L 10.91,23.60 L 4.51,25.61 L 3.08,33.86 L -3.08,33.86 L -4.51,25.61 L -6.82,25.09 L -13.00,22.52 L -19.40,27.92 L -24.13,23.96 L -19.92,16.71 L -21.35,14.84 L -24.43,8.89 L -32.81,8.91 L -33.88,2.85 L -26.00,0.00 L -25.89,-2.36 L -24.43,-8.89 L -30.86,-14.26 L -27.78,-19.60 L -19.92,-16.71 L -18.32,-18.45 L -13.00,-22.52 L -14.48,-30.76 L -8.69,-32.87 L -4.51,-25.61 L -2.18,-25.91 L 4.51,-25.61 L 8.69,-32.87 L 14.48,-30.76 L 13.00,-22.52 L 14.99,-21.25 L 19.92,-16.71 L 27.78,-19.60 L 30.86,-14.26 L 24.43,-8.89 L 25.14,-6.64 Z" fill="none" stroke="#1f6feb" stroke-width="2.2"
+            stroke-linejoin="round"/>
+      <circle r="12.0" fill="none" stroke="#1f6feb" stroke-width="2.2"/>
+      <circle r="3.8" fill="#1f6feb" fill-opacity="0.5"/>
+      <animateTransform attributeName="transform" type="rotate"
+        from="0 0 0" to="360 0 0" dur="13s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+    <rect x="-320" y="0" width="320" height="290" fill="url(#beam)">
+      <animate attributeName="x" from="-320" to="1012" dur="7s" repeatCount="indefinite"/>
+    </rect>
+
+    <g font-family="Segoe UI,Helvetica,Arial,sans-serif">
+      <g opacity="0.9">
+        <rect x="60" y="48" width="192" height="26" rx="13" fill="#f0883e" fill-opacity="0.10"
+              stroke="#f0883e" stroke-opacity="0.45"/>
+        <text x="76" y="66" font-size="12" font-weight="600" fill="#f0883e" letter-spacing="1.8">
+          GEARS — SOFTWARE THAT FITS
+        </text>
+      </g>
+
+      <text x="58" y="146" font-size="56" font-weight="800" fill="url(#ink)" letter-spacing="2">
+        ISAAC ONYANGO
+      </text>
+
+      <rect x="60" y="164" width="300" height="3" rx="1.5" fill="url(#rule)"/>
+
+      <text x="60" y="200" font-size="16.5" fill="#e6edf3" letter-spacing="0.4">
+        Full-Stack Developer &#183; Open-Source Builder &#183; Digital Creator
+      </text>
+      <text x="60" y="228" font-family="Consolas,monospace" font-size="13" fill="#8b949e">
+        Nairobi, Kenya &#160;|&#160; TypeScript &#183; Python &#183; React &#183; FastAPI &#183; Electron
+      </text>
+    </g>
+    <rect x="60" y="264" width="10" height="2" rx="1" fill="#58a6ff" fill-opacity="0.300"/><rect x="86" y="264" width="10" height="2" rx="1" fill="#58a6ff" fill-opacity="0.292"/><rect x="112" y="264" width="10" height="2" rx="1" fill="#58a6ff" fill-opacity="0.284"/><rect x="138" y="264" width="10" height="2" rx="1" fill="#58a6ff" fill-opacity="0.276"/><rect x="164" y="264" width="10" height="2" rx="1" fill="#58a6ff" fill-opacity="0.268"/><rect x="190" y="264" width="10" height="2" rx="1" fill="#58a6ff" fill-opacity="0.260"/><rect x="216" y="264" width="10" height="2" rx="1" fill="#58a6ff" fill-opacity="0.252"/><rect x="242" y="264" width="10" height="2" rx="1" fill="#58a6ff" fill-opacity="0.244"/><rect x="268" y="264" width="10" height="2" rx="1" fill="#58a6ff" fill-opacity="0.236"/><rect x="294" y="264" width="10" height="2" rx="1" fill="#58a6ff" fill-opacity="0.228"/><rect x="320" y="264" width="10" height="2" rx="1" fill="#58a6ff" fill-opacity="0.220"/><rect x="346" y="264" width="10" height="2" rx="1" fill="#58a6ff" fill-opacity="0.212"/><rect x="372" y="264" width="10" height="2" rx="1" fill="#58a6ff" fill-opacity="0.204"/><rect x="398" y="264" width="10" height="2" rx="1" fill="#58a6ff" fill-opacity="0.196"/><rect x="424" y="264" width="10" height="2" rx="1" fill="#58a6ff" fill-opacity="0.188"/><rect x="450" y="264" width="10" height="2" rx="1" fill="#58a6ff" fill-opacity="0.180"/><rect x="476" y="264" width="10" height="2" rx="1" fill="#58a6ff" fill-opacity="0.172"/><rect x="502" y="264" width="10" height="2" rx="1" fill="#58a6ff" fill-opacity="0.164"/><rect x="528" y="264" width="10" height="2" rx="1" fill="#58a6ff" fill-opacity="0.156"/><rect x="554" y="264" width="10" height="2" rx="1" fill="#58a6ff" fill-opacity="0.148"/><rect x="580" y="264" width="10" height="2" rx="1" fill="#58a6ff" fill-opacity="0.140"/><rect x="606" y="264" width="10" height="2" rx="1" fill="#58a6ff" fill-opacity="0.132"/><rect x="632" y="264" width="10" height="2" rx="1" fill="#58a6ff" fill-opacity="0.124"/><rect x="658" y="264" width="10" height="2" rx="1" fill="#58a6ff" fill-opacity="0.116"/><rect x="684" y="264" width="10" height="2" rx="1" fill="#58a6ff" fill-opacity="0.108"/><rect x="710" y="264" width="10" height="2" rx="1" fill="#58a6ff" fill-opacity="0.100"/><rect x="736" y="264" width="10" height="2" rx="1" fill="#58a6ff" fill-opacity="0.092"/><rect x="762" y="264" width="10" height="2" rx="1" fill="#58a6ff" fill-opacity="0.084"/><rect x="788" y="264" width="10" height="2" rx="1" fill="#58a6ff" fill-opacity="0.076"/><rect x="814" y="264" width="10" height="2" rx="1" fill="#58a6ff" fill-opacity="0.068"/>
+    <rect x="0.75" y="0.75" width="1010.5" height="288.5" rx="18" fill="none"
+          stroke="#1f6feb" stroke-opacity="0.45" stroke-width="1.5"/>
+  </g>
+</svg>
