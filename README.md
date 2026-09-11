@@ -73,24 +73,13 @@ Internet Download Hub is a free Windows desktop application that lets you downlo
 
 This is the official complex developers website where we offer a vast majority of services
 
-`TypeScript` &nbsp;·&nbsp; ★ 1
+`Mixed` &nbsp;·&nbsp; ★ 1
 
-<a href="https://github.com/Isaac-Onyango-Dev/Complex-Developers-Web"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://complex-developers-web.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-3178C6?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
+<a href="https://github.com/Isaac-Onyango-Dev/Complex-Developers-Web"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://complex-developers-web.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-6E7681?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-#### [StreamDock](https://github.com/Isaac-Onyango-Dev/StreamDock)
-
-No description yet.
-
-`TypeScript` &nbsp;·&nbsp; `cross-platform` `downloader` `electron`
-
-<a href="https://github.com/Isaac-Onyango-Dev/StreamDock"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://isaac-onyango-dev.github.io/StreamDock/"><img src="https://img.shields.io/badge/Live%20Demo-3178C6?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
-
-</td>
 <td width="50%" valign="top">
 
 #### [My-Portfolio](https://github.com/Isaac-Onyango-Dev/My-Portfolio)
@@ -100,6 +89,17 @@ Isaac Onyango's Portfolio
 `JavaScript`
 
 <a href="https://github.com/Isaac-Onyango-Dev/My-Portfolio"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://isaac-onyango-dev.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Live%20Demo-F7DF1E?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+#### [StreamDock](https://github.com/Isaac-Onyango-Dev/StreamDock)
+
+No description yet.
+
+`TypeScript` &nbsp;·&nbsp; `cross-platform` `downloader` `electron`
+
+<a href="https://github.com/Isaac-Onyango-Dev/StreamDock"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://isaac-onyango-dev.github.io/StreamDock/"><img src="https://img.shields.io/badge/Live%20Demo-3178C6?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
 
 </td>
 </tr>
