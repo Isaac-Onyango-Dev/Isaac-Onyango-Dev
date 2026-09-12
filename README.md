@@ -82,54 +82,6 @@ This is the official complex developers website where we offer a vast majority o
 <tr>
 <td width="50%" valign="top">
 
-#### [My-Portfolio](https://github.com/Isaac-Onyango-Dev/My-Portfolio)
-
-Isaac Onyango's Portfolio
-
-`JavaScript`
-
-<a href="https://github.com/Isaac-Onyango-Dev/My-Portfolio"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://isaac-onyango-dev.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Live%20Demo-F7DF1E?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-#### [StreamDock](https://github.com/Isaac-Onyango-Dev/StreamDock)
-
-No description yet.
-
-`TypeScript` &nbsp;·&nbsp; `cross-platform` `downloader` `electron`
-
-<a href="https://github.com/Isaac-Onyango-Dev/StreamDock"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://isaac-onyango-dev.github.io/StreamDock/"><img src="https://img.shields.io/badge/Live%20Demo-3178C6?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### [KeyHunter](https://github.com/Isaac-Onyango-Dev/KeyHunter)
-
-No description yet.
-
-`Mixed`
-
-<a href="https://github.com/Isaac-Onyango-Dev/KeyHunter"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-#### [Streamer-Hub](https://github.com/Isaac-Onyango-Dev/Streamer-Hub)
-
-No description yet.
-
-`TypeScript`
-
-<a href="https://github.com/Isaac-Onyango-Dev/Streamer-Hub"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://isaac-onyango-dev.github.io/Streamer-Hub/"><img src="https://img.shields.io/badge/Live%20Demo-3178C6?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 #### [MediaGrab](https://github.com/Isaac-Onyango-Dev/MediaGrab)
 
 No description yet.
@@ -141,6 +93,43 @@ No description yet.
 </td>
 <td width="50%" valign="top">
 
+#### [My-Portfolio](https://github.com/Isaac-Onyango-Dev/My-Portfolio)
+
+Isaac Onyango's Portfolio
+
+`JavaScript`
+
+<a href="https://github.com/Isaac-Onyango-Dev/My-Portfolio"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://isaac-onyango-dev.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Live%20Demo-F7DF1E?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [StreamDock](https://github.com/Isaac-Onyango-Dev/StreamDock)
+
+No description yet.
+
+`TypeScript` &nbsp;·&nbsp; `cross-platform` `downloader` `electron`
+
+<a href="https://github.com/Isaac-Onyango-Dev/StreamDock"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://isaac-onyango-dev.github.io/StreamDock/"><img src="https://img.shields.io/badge/Live%20Demo-3178C6?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+#### [KeyHunter](https://github.com/Isaac-Onyango-Dev/KeyHunter)
+
+No description yet.
+
+`Mixed`
+
+<a href="https://github.com/Isaac-Onyango-Dev/KeyHunter"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 #### [ScamShield](https://github.com/Isaac-Onyango-Dev/ScamShield)
 
 This app helps users detect and report suspicious online job and service scams.
@@ -150,8 +139,6 @@ This app helps users detect and report suspicious online job and service scams.
 <a href="https://github.com/Isaac-Onyango-Dev/ScamShield"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://isaac-onyango-dev.github.io/ScamShield/"><img src="https://img.shields.io/badge/Live%20Demo-3178C6?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### [daniel](https://github.com/Isaac-Onyango-Dev/daniel)
@@ -163,7 +150,6 @@ No description yet.
 <a href="https://github.com/Isaac-Onyango-Dev/daniel"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
 
 </td>
-<td width="50%"></td>
 </tr>
 </table>
 <!-- REPOS:END -->
