@@ -82,6 +82,17 @@ This is the official complex developers website where we offer a vast majority o
 <tr>
 <td width="50%" valign="top">
 
+#### [Dovetail](https://github.com/Isaac-Onyango-Dev/Dovetail)
+
+Dovetail reads the pad's raw HID reports directly, translates them, and presents a virtual Xbox 360 controller…
+
+`C#`
+
+<a href="https://github.com/Isaac-Onyango-Dev/Dovetail"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
+
+</td>
+<td width="50%" valign="top">
+
 #### [MediaGrab](https://github.com/Isaac-Onyango-Dev/MediaGrab)
 
 No description yet.
@@ -91,6 +102,8 @@ No description yet.
 <a href="https://github.com/Isaac-Onyango-Dev/MediaGrab"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://isaac-onyango-dev.github.io/MediaGrab/"><img src="https://img.shields.io/badge/Live%20Demo-3776AB?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### [My-Portfolio](https://github.com/Isaac-Onyango-Dev/My-Portfolio)
@@ -102,8 +115,6 @@ Isaac Onyango's Portfolio
 <a href="https://github.com/Isaac-Onyango-Dev/My-Portfolio"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://isaac-onyango-dev.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Live%20Demo-F7DF1E?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### [StreamDock](https://github.com/Isaac-Onyango-Dev/StreamDock)
@@ -115,6 +126,8 @@ No description yet.
 <a href="https://github.com/Isaac-Onyango-Dev/StreamDock"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://isaac-onyango-dev.github.io/StreamDock/"><img src="https://img.shields.io/badge/Live%20Demo-3178C6?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### [KeyHunter](https://github.com/Isaac-Onyango-Dev/KeyHunter)
@@ -126,8 +139,6 @@ No description yet.
 <a href="https://github.com/Isaac-Onyango-Dev/KeyHunter"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### [ScamShield](https://github.com/Isaac-Onyango-Dev/ScamShield)
@@ -139,6 +150,8 @@ This app helps users detect and report suspicious online job and service scams.
 <a href="https://github.com/Isaac-Onyango-Dev/ScamShield"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://isaac-onyango-dev.github.io/ScamShield/"><img src="https://img.shields.io/badge/Live%20Demo-3178C6?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### [daniel](https://github.com/Isaac-Onyango-Dev/daniel)
@@ -150,6 +163,7 @@ No description yet.
 <a href="https://github.com/Isaac-Onyango-Dev/daniel"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
 
 </td>
+<td width="50%"></td>
 </tr>
 </table>
 <!-- REPOS:END -->
