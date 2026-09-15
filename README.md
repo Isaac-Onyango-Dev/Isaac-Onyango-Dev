@@ -119,7 +119,7 @@ Isaac Onyango's Portfolio
 
 #### [StreamDock](https://github.com/Isaac-Onyango-Dev/StreamDock)
 
-No description yet.
+Desktop-only Electron app for downloading videos and capturing live streams with yt-dlp and ffmpeg
 
 `TypeScript` &nbsp;·&nbsp; `cross-platform` `downloader` `electron`
 
