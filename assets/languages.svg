@@ -8,27 +8,27 @@
 <rect x="0.75" y="0.75" width="498.5" height="244.5" rx="14" fill="url(#sheen)" stroke="url(#edge)" stroke-width="1.5"/>
 <rect x="1.5" y="1.5" width="497" height="243" rx="13" fill="url(#grid)"/>
 <text x="22" y="34" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#c9d1d9" letter-spacing="1.6">LANGUAGE DISTRIBUTION</text>
-<text x="478" y="34" text-anchor="end" font-family="Consolas,monospace" font-size="11" fill="#7d8590">4.02 M bytes</text>
+<text x="478" y="34" text-anchor="end" font-family="Consolas,monospace" font-size="11" fill="#7d8590">4.03 M bytes</text>
 <rect x="22" y="44" width="34" height="2.5" rx="1.25" fill="#f0883e"/>
 <rect x="60" y="44" width="418" height="2.5" rx="1.25" fill="#58a6ff" fill-opacity="0.18"/>
 <clipPath id="barclip"><rect x="22.0" y="64.0" width="456.0" height="13" rx="6.5"/></clipPath>
-<rect x="22.00" y="64.0" width="237.19" height="13" fill="#3178c6" clip-path="url(#barclip)"/>
-<rect x="258.59" y="64.0" width="73.80" height="13" fill="#178600" clip-path="url(#barclip)"/>
-<rect x="331.79" y="64.0" width="56.06" height="13" fill="#c6538c" clip-path="url(#barclip)"/>
-<rect x="387.25" y="64.0" width="40.95" height="13" fill="#3572a5" clip-path="url(#barclip)"/>
-<rect x="427.61" y="64.0" width="19.41" height="13" fill="#663399" clip-path="url(#barclip)"/>
-<rect x="446.42" y="64.0" width="15.00" height="13" fill="#e34c26" clip-path="url(#barclip)"/>
-<rect x="460.82" y="64.0" width="13.64" height="13" fill="#f1e05a" clip-path="url(#barclip)"/>
-<rect x="473.87" y="64.0" width="4.73" height="13" fill="#58a6ff" clip-path="url(#barclip)"/>
+<rect x="22.00" y="64.0" width="236.66" height="13" fill="#3178c6" clip-path="url(#barclip)"/>
+<rect x="258.06" y="64.0" width="74.45" height="13" fill="#178600" clip-path="url(#barclip)"/>
+<rect x="331.91" y="64.0" width="55.94" height="13" fill="#c6538c" clip-path="url(#barclip)"/>
+<rect x="387.24" y="64.0" width="40.86" height="13" fill="#3572a5" clip-path="url(#barclip)"/>
+<rect x="427.51" y="64.0" width="19.37" height="13" fill="#663399" clip-path="url(#barclip)"/>
+<rect x="446.28" y="64.0" width="14.97" height="13" fill="#e34c26" clip-path="url(#barclip)"/>
+<rect x="460.65" y="64.0" width="13.61" height="13" fill="#f1e05a" clip-path="url(#barclip)"/>
+<rect x="473.66" y="64.0" width="4.94" height="13" fill="#58a6ff" clip-path="url(#barclip)"/>
 <circle cx="27.0" cy="108" r="5" fill="#3178c6"/>
 <text x="39.0" y="112" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#c9d1d9">TypeScript</text>
-<text x="234.0" y="112" text-anchor="end" font-family="Consolas,monospace" font-size="11.5" fill="#7d8590">51.9%</text>
+<text x="234.0" y="112" text-anchor="end" font-family="Consolas,monospace" font-size="11.5" fill="#7d8590">51.8%</text>
 <circle cx="255.0" cy="108" r="5" fill="#178600"/>
 <text x="267.0" y="112" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#c9d1d9">C#</text>
-<text x="462.0" y="112" text-anchor="end" font-family="Consolas,monospace" font-size="11.5" fill="#7d8590">16.1%</text>
+<text x="462.0" y="112" text-anchor="end" font-family="Consolas,monospace" font-size="11.5" fill="#7d8590">16.2%</text>
 <circle cx="27.0" cy="138" r="5" fill="#c6538c"/>
 <text x="39.0" y="142" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#c9d1d9">SCSS</text>
-<text x="234.0" y="142" text-anchor="end" font-family="Consolas,monospace" font-size="11.5" fill="#7d8590">12.2%</text>
+<text x="234.0" y="142" text-anchor="end" font-family="Consolas,monospace" font-size="11.5" fill="#7d8590">12.1%</text>
 <circle cx="255.0" cy="138" r="5" fill="#3572a5"/>
 <text x="267.0" y="142" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#c9d1d9">Python</text>
 <text x="462.0" y="142" text-anchor="end" font-family="Consolas,monospace" font-size="11.5" fill="#7d8590">8.8%</text>
@@ -43,5 +43,5 @@
 <text x="234.0" y="202" text-anchor="end" font-family="Consolas,monospace" font-size="11.5" fill="#7d8590">2.9%</text>
 <circle cx="255.0" cy="198" r="5" fill="#58a6ff"/>
 <text x="267.0" y="202" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#c9d1d9">Other</text>
-<text x="462.0" y="202" text-anchor="end" font-family="Consolas,monospace" font-size="11.5" fill="#7d8590">0.9%</text>
+<text x="462.0" y="202" text-anchor="end" font-family="Consolas,monospace" font-size="11.5" fill="#7d8590">1.0%</text>
 </svg>

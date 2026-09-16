@@ -10,7 +10,7 @@ name: Refresh profile
 
 on:
   schedule:
-    - cron: "17 4 * * *"     # daily, 04:17 UTC
+    - cron: "17 * * * *"     # hourly, so new and deleted repos show up fast
   workflow_dispatch:
   push:
     branches: [main]
@@ -54,5 +54,6 @@ jobs:
             echo "Nothing changed."
           else
             git commit -m "chore: refresh profile stats [skip ci]"
+            git pull --rebase --autostash
             git push
           fi

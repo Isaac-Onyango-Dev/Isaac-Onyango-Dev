@@ -10,7 +10,8 @@ Outputs:
     assets/stats.svg        engineering metrics card
     assets/languages.svg    language distribution card
     assets/activity.svg     contribution heatmap for the last year
-    README.md               repository showcase between the REPOS markers
+    README.md               showcase, activity feed and current project,
+                            each between its START/END markers
 
 Usage:
     python scripts/build_profile.py [--user LOGIN] [--root PATH]
@@ -423,19 +424,73 @@ def repo_showcase(user: str, repos: list[dict]) -> str:
     return "\n".join(lines)
 
 
-def patch_readme(readme: Path, block: str) -> None:
+EVENT_VERBS = {
+    "PushEvent": "Pushed to",
+    "CreateEvent": "Created",
+    "PullRequestEvent": "Opened a pull request in",
+    "IssuesEvent": "Opened an issue in",
+    "ReleaseEvent": "Published a release of",
+    "PublicEvent": "Open-sourced",
+}
+
+
+def fetch_events(user: str) -> list[dict]:
+    try:
+        return request(f"{API}/users/{user}/events/public?per_page=60")
+    except urllib.error.HTTPError:
+        return []
+
+
+def activity_feed(user: str, events: list[dict], limit: int = 6) -> str:
+    """One line per repo and action, newest first, so a burst of pushes reads as one entry."""
+    seen, lines = set(), []
+    for event in sorted(events, key=lambda e: e["created_at"], reverse=True):
+        verb = EVENT_VERBS.get(event["type"])
+        repo = event["repo"]["name"].split("/", 1)[-1]
+        payload = event.get("payload", {})
+        if not verb or repo.lower() == user.lower():
+            continue
+        if event["type"] == "CreateEvent" and payload.get("ref_type") != "repository":
+            continue
+        if event["type"] in ("PullRequestEvent", "IssuesEvent") and payload.get("action") != "opened":
+            continue
+        if (verb, repo) in seen:
+            continue
+        seen.add((verb, repo))
+        when = datetime.fromisoformat(event["created_at"].replace("Z", "+00:00")).strftime("%d %b")
+        lines.append(f"- `{when}` &nbsp; {verb} **[{repo}](https://github.com/{user}/{repo})**")
+        if len(lines) == limit:
+            break
+    return "\n".join(lines) or "- Nothing public in the last few weeks."
+
+
+def latest_project(user: str, repos: list[dict]) -> str:
+    recent = max(
+        (r for r in repos if r["name"].lower() != user.lower()),
+        key=lambda r: r["pushed_at"],
+        default=None,
+    )
+    if not recent:
+        return "Something new — check back soon"
+    line = f"[{recent['name']}]({recent['html_url']})"
+    if recent["description"]:
+        summary = recent["description"].split(" — ")[0].split(". ")[0].rstrip(".")
+        if len(summary) > 90:
+            summary = summary[:87].rsplit(" ", 1)[0] + "…"
+        line += " — " + summary
+    return line
+
+
+def patch_readme(readme: Path, blocks: dict[str, str]) -> None:
     text = readme.read_text(encoding="utf-8")
-    pattern = re.compile(
-        r"(<!-- REPOS:START -->)(.*?)(<!-- REPOS:END -->)", re.DOTALL
-    )
-    if not pattern.search(text):
-        print("  README markers missing; showcase not updated", file=sys.stderr)
-        return
-    readme.write_text(
-        pattern.sub(lambda m: f"{m.group(1)}\n{block}\n{m.group(3)}", text),
-        encoding="utf-8",
-    )
-    print("  wrote README.md showcase")
+    for name, block in blocks.items():
+        pattern = re.compile(rf"(<!-- {name}:START -->)(.*?)(<!-- {name}:END -->)", re.DOTALL)
+        if not pattern.search(text):
+            print(f"  README has no {name} markers; skipped", file=sys.stderr)
+            continue
+        text = pattern.sub(lambda m: f"{m.group(1)}{block}{m.group(3)}", text)
+    readme.write_text(text, encoding="utf-8")
+    print(f"  wrote README.md blocks: {', '.join(blocks)}")
 
 
 # ── entry point ────────────────────────────────────────────────────────────
@@ -485,7 +540,11 @@ def main() -> int:
     )
     build_language_card(assets / "languages.svg", languages)
     build_activity_card(assets / "activity.svg", days)
-    patch_readme(root / "README.md", repo_showcase(user, repos))
+    patch_readme(root / "README.md", {
+        "REPOS": f"\n{repo_showcase(user, repos)}\n",
+        "ACTIVITY": f"\n{activity_feed(user, fetch_events(user))}\n",
+        "LATEST": latest_project(user, repos),
+    })
     print("done")
     return 0
 
