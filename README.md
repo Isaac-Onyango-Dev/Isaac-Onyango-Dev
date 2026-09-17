@@ -37,7 +37,7 @@ cleanly.
 | | |
 |:--|:--|
 | **Focus** | Full-stack product work — TypeScript front ends on Python and Node services |
-| **Latest work** | <!-- LATEST:START -->[Dovetail](https://github.com/Isaac-Onyango-Dev/Dovetail) — Dovetail reads the pad's raw HID reports directly, translates them, and presents a…<!-- LATEST:END --> |
+| **Latest work** | <!-- LATEST:START -->[My-Portfolio](https://github.com/Isaac-Onyango-Dev/My-Portfolio) — Isaac Onyango's Portfolio<!-- LATEST:END --> |
 | **Studying** | TVET CDACC KNQF Level 6, Computer Science · distributed systems · applied ML |
 | **Also** | Graphic design, motion and original manga worldbuilding |
 | **Based in** | Nairobi, Kenya 🇰🇪 |
@@ -82,20 +82,20 @@ This is the official complex developers website where we offer a vast majority o
 <tr>
 <td width="50%" valign="top">
 
-#### [Dovetail](https://github.com/Isaac-Onyango-Dev/Dovetail)
+#### [My-Portfolio](https://github.com/Isaac-Onyango-Dev/My-Portfolio)
 
-Dovetail reads the pad's raw HID reports directly, translates them, and presents a virtual Xbox 360 controller…
+Isaac Onyango's Portfolio
 
-`C#`
+`JavaScript`
 
-<a href="https://github.com/Isaac-Onyango-Dev/Dovetail"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://isaac-onyango-dev.github.io/Dovetail/"><img src="https://img.shields.io/badge/Live%20Demo-6E7681?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
+<a href="https://github.com/Isaac-Onyango-Dev/My-Portfolio"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://isaac-onyango-dev.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Live%20Demo-F7DF1E?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
 
 </td>
 <td width="50%" valign="top">
 
 #### [MediaGrab](https://github.com/Isaac-Onyango-Dev/MediaGrab)
 
-No description yet.
+MediaGrab is a universal video and audio downloader packaged as a native app for Windows, macOS, Linux, and Android.
 
 `Python`
 
@@ -106,13 +106,13 @@ No description yet.
 <tr>
 <td width="50%" valign="top">
 
-#### [My-Portfolio](https://github.com/Isaac-Onyango-Dev/My-Portfolio)
+#### [Dovetail](https://github.com/Isaac-Onyango-Dev/Dovetail)
 
-Isaac Onyango's Portfolio
+Dovetail reads the pad's raw HID reports directly, translates them, and presents a virtual Xbox 360 controller…
 
-`JavaScript`
+`C#`
 
-<a href="https://github.com/Isaac-Onyango-Dev/My-Portfolio"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://isaac-onyango-dev.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Live%20Demo-F7DF1E?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
+<a href="https://github.com/Isaac-Onyango-Dev/Dovetail"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://isaac-onyango-dev.github.io/Dovetail/"><img src="https://img.shields.io/badge/Live%20Demo-6E7681?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -172,10 +172,10 @@ No description yet.
 <summary><b>Latest activity</b></summary>
 
 <!-- ACTIVITY:START -->
+- `17 Sep` &nbsp; Pushed to **[My-Portfolio](https://github.com/Isaac-Onyango-Dev/My-Portfolio)**
 - `16 Sep` &nbsp; Pushed to **[Dovetail](https://github.com/Isaac-Onyango-Dev/Dovetail)**
 - `14 Sep` &nbsp; Opened an issue in **[StreamDock](https://github.com/Isaac-Onyango-Dev/StreamDock)**
 - `11 Sep` &nbsp; Pushed to **[MediaGrab](https://github.com/Isaac-Onyango-Dev/MediaGrab)**
-- `11 Sep` &nbsp; Pushed to **[My-Portfolio](https://github.com/Isaac-Onyango-Dev/My-Portfolio)**
 - `11 Sep` &nbsp; Pushed to **[StreamDock](https://github.com/Isaac-Onyango-Dev/StreamDock)**
 - `11 Sep` &nbsp; Pushed to **[Internet-Download-Hub](https://github.com/Isaac-Onyango-Dev/Internet-Download-Hub)**
 <!-- ACTIVITY:END -->
