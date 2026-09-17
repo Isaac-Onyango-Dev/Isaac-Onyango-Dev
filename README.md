@@ -37,7 +37,7 @@ cleanly.
 | | |
 |:--|:--|
 | **Focus** | Full-stack product work — TypeScript front ends on Python and Node services |
-| **Latest work** | <!-- LATEST:START -->[My-Portfolio](https://github.com/Isaac-Onyango-Dev/My-Portfolio) — Isaac Onyango's Portfolio<!-- LATEST:END --> |
+| **Latest work** | <!-- LATEST:START -->[Internet-Download-Hub](https://github.com/Isaac-Onyango-Dev/Internet-Download-Hub) — Internet Download Hub is a free Windows desktop application that lets you download…<!-- LATEST:END --> |
 | **Studying** | TVET CDACC KNQF Level 6, Computer Science · distributed systems · applied ML |
 | **Also** | Graphic design, motion and original manga worldbuilding |
 | **Based in** | Nairobi, Kenya 🇰🇪 |
@@ -172,12 +172,12 @@ No description yet.
 <summary><b>Latest activity</b></summary>
 
 <!-- ACTIVITY:START -->
+- `17 Sep` &nbsp; Pushed to **[Internet-Download-Hub](https://github.com/Isaac-Onyango-Dev/Internet-Download-Hub)**
 - `17 Sep` &nbsp; Pushed to **[My-Portfolio](https://github.com/Isaac-Onyango-Dev/My-Portfolio)**
+- `17 Sep` &nbsp; Pushed to **[MediaGrab](https://github.com/Isaac-Onyango-Dev/MediaGrab)**
 - `16 Sep` &nbsp; Pushed to **[Dovetail](https://github.com/Isaac-Onyango-Dev/Dovetail)**
 - `14 Sep` &nbsp; Opened an issue in **[StreamDock](https://github.com/Isaac-Onyango-Dev/StreamDock)**
-- `11 Sep` &nbsp; Pushed to **[MediaGrab](https://github.com/Isaac-Onyango-Dev/MediaGrab)**
 - `11 Sep` &nbsp; Pushed to **[StreamDock](https://github.com/Isaac-Onyango-Dev/StreamDock)**
-- `11 Sep` &nbsp; Pushed to **[Internet-Download-Hub](https://github.com/Isaac-Onyango-Dev/Internet-Download-Hub)**
 <!-- ACTIVITY:END -->
 
 </details>
