@@ -1,26 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1012" height="290"
      viewBox="0 0 1012 290" role="img" aria-label="Isaac Onyango — full-stack developer">
   <title>Isaac Onyango — Full-Stack Developer, Nairobi, Kenya</title>
+  <style>
+    .spin { transform-box: fill-box; transform-origin: center;
+            animation: spin linear infinite; }
+    .ccw  { animation-direction: reverse; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @media (prefers-reduced-motion: reduce) {
+      .spin, .sweep { animation: none; }
+    }
+  </style>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#07111f"/>
       <stop offset="46%" stop-color="#0d1117"/>
       <stop offset="100%" stop-color="#131a24"/>
     </linearGradient>
-    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#ffffff"/>
-      <stop offset="42%" stop-color="#58a6ff"/>
-      <stop offset="66%" stop-color="#58a6ff"/>
-      <stop offset="100%" stop-color="#f0883e"/>
-    </linearGradient>
     <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#f0883e"/>
       <stop offset="100%" stop-color="#1f6feb" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#58a6ff" stop-opacity="0.16"/>
-      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
     </linearGradient>
     <radialGradient id="glow" cx="0.82" cy="0.4" r="0.55">
       <stop offset="0%" stop-color="#1f6feb" stop-opacity="0.28"/>
@@ -37,53 +35,57 @@
     <rect width="1012" height="290" fill="url(#blueprint)"/>
     <rect width="1012" height="290" fill="url(#glow)"/>
 
-  <g transform="translate(846 132)" opacity="0.85">
-    <g>
-      <path d="M 58.00,0.00 L 73.89,3.98 L 72.93,12.56 L 56.55,12.91 L 55.70,16.18 L 52.26,25.17 L 64.85,35.65 L 60.26,42.96 L 45.35,36.16 L 43.16,38.75 L 36.16,45.35 L 42.96,60.26 L 35.65,64.85 L 25.17,52.26 L 22.08,53.63 L 12.91,56.55 L 12.56,72.93 L 3.98,73.89 L 0.00,58.00 L -3.38,57.90 L -12.91,56.55 L -20.33,71.15 L -28.47,68.30 L -25.17,52.26 L -28.17,50.70 L -36.16,45.35 L -49.19,55.29 L -55.29,49.19 L -45.35,36.16 L -47.38,33.46 L -52.26,25.17 L -68.30,28.47 L -71.15,20.33 L -56.55,12.91 L -57.20,9.59 L -58.00,0.00 L -73.89,-3.98 L -72.93,-12.56 L -56.55,-12.91 L -55.70,-16.18 L -52.26,-25.17 L -64.85,-35.65 L -60.26,-42.96 L -45.35,-36.16 L -43.16,-38.75 L -36.16,-45.35 L -42.96,-60.26 L -35.65,-64.85 L -25.17,-52.26 L -22.08,-53.63 L -12.91,-56.55 L -12.56,-72.93 L -3.98,-73.89 L -0.00,-58.00 L 3.38,-57.90 L 12.91,-56.55 L 20.33,-71.15 L 28.47,-68.30 L 25.17,-52.26 L 28.17,-50.70 L 36.16,-45.35 L 49.19,-55.29 L 55.29,-49.19 L 45.35,-36.16 L 47.38,-33.46 L 52.26,-25.17 L 68.30,-28.47 L 71.15,-20.33 L 56.55,-12.91 L 57.20,-9.59 Z" fill="none" stroke="#58a6ff" stroke-width="2.2"
-            stroke-linejoin="round"/>
-      <circle r="26.0" fill="none" stroke="#58a6ff" stroke-width="2.2"/>
-      <circle r="8.3" fill="#58a6ff" fill-opacity="0.5"/>
-      <animateTransform attributeName="transform" type="rotate"
-        from="0 0 0" to="360 0 0" dur="26s" repeatCount="indefinite"/>
+  <g transform="translate(848.00 138.00) rotate(0.000)"
+     opacity="0.9">
+    <g class="spin" style="animation-duration:48s">
+      <circle r="79.00" fill="none"/>
+      <path d="M 64.34,-4.56 L 77.96,-2.45 L 77.96,2.45 L 64.34,4.56 L 63.33,12.25 L 75.94,17.81 L 74.67,22.54 L 60.97,21.05 L 58.00,28.22 L 68.74,36.86 L 66.29,41.10 L 53.44,36.11 L 48.72,42.27 L 56.86,53.39 L 53.39,56.86 L 42.27,48.72 L 36.11,53.44 L 41.10,66.29 L 36.86,68.74 L 28.22,58.00 L 21.05,60.97 L 22.54,74.67 L 17.81,75.94 L 12.25,63.33 L 4.56,64.34 L 2.45,77.96 L -2.45,77.96 L -4.56,64.34 L -12.25,63.33 L -17.81,75.94 L -22.54,74.67 L -21.05,60.97 L -28.22,58.00 L -36.86,68.74 L -41.10,66.29 L -36.11,53.44 L -42.27,48.72 L -53.39,56.86 L -56.86,53.39 L -48.72,42.27 L -53.44,36.11 L -66.29,41.10 L -68.74,36.86 L -58.00,28.22 L -60.97,21.05 L -74.67,22.54 L -75.94,17.81 L -63.33,12.25 L -64.34,4.56 L -77.96,2.45 L -77.96,-2.45 L -64.34,-4.56 L -63.33,-12.25 L -75.94,-17.81 L -74.67,-22.54 L -60.97,-21.05 L -58.00,-28.22 L -68.74,-36.86 L -66.29,-41.10 L -53.44,-36.11 L -48.72,-42.27 L -56.86,-53.39 L -53.39,-56.86 L -42.27,-48.72 L -36.11,-53.44 L -41.10,-66.29 L -36.86,-68.74 L -28.22,-58.00 L -21.05,-60.97 L -22.54,-74.67 L -17.81,-75.94 L -12.25,-63.33 L -4.56,-64.34 L -2.45,-77.96 L 2.45,-77.96 L 4.56,-64.34 L 12.25,-63.33 L 17.81,-75.94 L 22.54,-74.67 L 21.05,-60.97 L 28.22,-58.00 L 36.86,-68.74 L 41.10,-66.29 L 36.11,-53.44 L 42.27,-48.72 L 53.39,-56.86 L 56.86,-53.39 L 48.72,-42.27 L 53.44,-36.11 L 66.29,-41.10 L 68.74,-36.86 L 58.00,-28.22 L 60.97,-21.05 L 74.67,-22.54 L 75.94,-17.81 L 63.33,-12.25 Z" fill="#58a6ff" fill-opacity="0.07" stroke="#58a6ff"
+            stroke-width="2" stroke-linejoin="round"/>
+      <circle r="52.80" fill="none" stroke="#58a6ff" stroke-opacity="0.35" stroke-width="1.2"/>
+      <circle r="24.48" fill="none" stroke="#58a6ff" stroke-width="2"/>
+      <rect x="-2.70" y="-25.68" width="5.40"
+            height="5.40" rx="1.20" fill="#58a6ff" fill-opacity="0.8"/>
+      <circle r="9.30" fill="#58a6ff" fill-opacity="0.55"/>
     </g>
   </g>
-  <g transform="translate(946 214)" opacity="0.85">
-    <g>
-      <path d="M 38.00,0.00 L 49.88,3.42 L 48.83,10.77 L 36.46,10.71 L 35.57,13.38 L 31.97,20.54 L 40.11,29.85 L 35.25,35.46 L 24.88,28.72 L 22.69,30.49 L 15.79,34.57 L 17.61,46.80 L 10.49,48.89 L 5.41,37.61 L 2.60,37.91 L -5.41,37.61 L -10.49,48.89 L -17.61,46.80 L -15.79,34.57 L -18.31,33.30 L -24.88,28.72 L -35.25,35.46 L -40.11,29.85 L -31.97,20.54 L -33.40,18.12 L -36.46,10.71 L -48.83,10.77 L -49.88,3.42 L -38.00,-0.00 L -37.90,-2.82 L -36.46,-10.71 L -46.90,-17.34 L -43.82,-24.09 L -31.97,-20.54 L -30.36,-22.86 L -24.88,-28.72 L -30.08,-39.94 L -23.84,-43.95 L -15.79,-34.57 L -13.18,-35.64 L -5.41,-37.61 L -3.71,-49.86 L 3.71,-49.86 L 5.41,-37.61 L 8.18,-37.11 L 15.79,-34.57 L 23.84,-43.95 L 30.08,-39.94 L 24.88,-28.72 L 26.95,-26.79 L 31.97,-20.54 L 43.82,-24.09 L 46.90,-17.34 L 36.46,-10.71 L 37.15,-7.97 Z" fill="none" stroke="#f0883e" stroke-width="2.2"
-            stroke-linejoin="round"/>
-      <circle r="17.0" fill="none" stroke="#f0883e" stroke-width="2.2"/>
-      <circle r="5.4" fill="#f0883e" fill-opacity="0.5"/>
-      <animateTransform attributeName="transform" type="rotate"
-        from="360 0 0" to="0 0 0" dur="18s" repeatCount="indefinite"/>
+  <g transform="translate(935.33 211.28) rotate(224.286)"
+     opacity="0.9">
+    <g class="spin ccw" style="animation-duration:28s">
+      <circle r="49.00" fill="none"/>
+      <path d="M 34.25,-4.17 L 47.93,-2.58 L 47.93,2.58 L 34.25,4.17 L 32.66,11.10 L 44.30,18.47 L 42.06,23.12 L 29.05,18.62 L 24.61,24.18 L 31.90,35.86 L 27.86,39.08 L 18.09,29.38 L 11.69,32.46 L 13.18,46.15 L 8.15,47.30 L 3.55,34.32 L -3.55,34.32 L -8.15,47.30 L -13.18,46.15 L -11.69,32.46 L -18.09,29.38 L -27.86,39.08 L -31.90,35.86 L -24.61,24.18 L -29.05,18.62 L -42.06,23.12 L -44.30,18.47 L -32.66,11.10 L -34.25,4.17 L -47.93,2.58 L -47.93,-2.58 L -34.25,-4.17 L -32.66,-11.10 L -44.30,-18.47 L -42.06,-23.12 L -29.05,-18.62 L -24.61,-24.18 L -31.90,-35.86 L -27.86,-39.08 L -18.09,-29.38 L -11.69,-32.46 L -13.18,-46.15 L -8.15,-47.30 L -3.55,-34.32 L 3.55,-34.32 L 8.15,-47.30 L 13.18,-46.15 L 11.69,-32.46 L 18.09,-29.38 L 27.86,-39.08 L 31.90,-35.86 L 24.61,-24.18 L 29.05,-18.62 L 42.06,-23.12 L 44.30,-18.47 L 32.66,-11.10 Z" fill="#f0883e" fill-opacity="0.07" stroke="#f0883e"
+            stroke-width="2" stroke-linejoin="round"/>
+      <circle r="22.80" fill="none" stroke="#f0883e" stroke-opacity="0.35" stroke-width="1.2"/>
+      <circle r="14.28" fill="none" stroke="#f0883e" stroke-width="2"/>
+      <rect x="-2.70" y="-15.48" width="5.40"
+            height="5.40" rx="1.20" fill="#f0883e" fill-opacity="0.8"/>
+      <circle r="5.43" fill="#f0883e" fill-opacity="0.55"/>
     </g>
   </g>
-  <g transform="translate(762 236)" opacity="0.75">
-    <g>
-      <path d="M 26.00,0.00 L 33.88,2.85 L 32.81,8.91 L 24.43,8.89 L 23.53,11.07 L 19.92,16.71 L 24.13,23.96 L 19.40,27.92 L 13.00,22.52 L 10.91,23.60 L 4.51,25.61 L 3.08,33.86 L -3.08,33.86 L -4.51,25.61 L -6.82,25.09 L -13.00,22.52 L -19.40,27.92 L -24.13,23.96 L -19.92,16.71 L -21.35,14.84 L -24.43,8.89 L -32.81,8.91 L -33.88,2.85 L -26.00,0.00 L -25.89,-2.36 L -24.43,-8.89 L -30.86,-14.26 L -27.78,-19.60 L -19.92,-16.71 L -18.32,-18.45 L -13.00,-22.52 L -14.48,-30.76 L -8.69,-32.87 L -4.51,-25.61 L -2.18,-25.91 L 4.51,-25.61 L 8.69,-32.87 L 14.48,-30.76 L 13.00,-22.52 L 14.99,-21.25 L 19.92,-16.71 L 27.78,-19.60 L 30.86,-14.26 L 24.43,-8.89 L 25.14,-6.64 Z" fill="none" stroke="#1f6feb" stroke-width="2.2"
-            stroke-linejoin="round"/>
-      <circle r="12.0" fill="none" stroke="#1f6feb" stroke-width="2.2"/>
-      <circle r="3.8" fill="#1f6feb" fill-opacity="0.5"/>
-      <animateTransform attributeName="transform" type="rotate"
-        from="0 0 0" to="360 0 0" dur="13s" repeatCount="indefinite"/>
+  <g transform="translate(775.88 210.12) rotate(297.000)"
+     opacity="0.9">
+    <g class="spin ccw" style="animation-duration:20s">
+      <circle r="37.00" fill="none"/>
+      <path d="M 22.18,-3.80 L 35.90,-2.71 L 35.90,2.71 L 22.18,3.80 L 20.17,9.96 L 30.64,18.91 L 27.45,23.29 L 15.71,16.11 L 10.47,19.92 L 13.67,33.30 L 8.51,34.98 L 3.24,22.27 L -3.24,22.27 L -8.51,34.98 L -13.67,33.30 L -10.47,19.92 L -15.71,16.11 L -27.45,23.29 L -30.64,18.91 L -20.17,9.96 L -22.18,3.80 L -35.90,2.71 L -35.90,-2.71 L -22.18,-3.80 L -20.17,-9.96 L -30.64,-18.91 L -27.45,-23.29 L -15.71,-16.11 L -10.47,-19.92 L -13.67,-33.30 L -8.51,-34.98 L -3.24,-22.27 L 3.24,-22.27 L 8.51,-34.98 L 13.67,-33.30 L 10.47,-19.92 L 15.71,-16.11 L 27.45,-23.29 L 30.64,-18.91 L 20.17,-9.96 Z" fill="#1f6feb" fill-opacity="0.07" stroke="#1f6feb"
+            stroke-width="2" stroke-linejoin="round"/>
+      
+      <circle r="10.20" fill="none" stroke="#1f6feb" stroke-width="2"/>
+      <rect x="-2.70" y="-11.40" width="5.40"
+            height="5.40" rx="1.20" fill="#1f6feb" fill-opacity="0.8"/>
+      <circle r="3.88" fill="#1f6feb" fill-opacity="0.55"/>
     </g>
   </g>
-
-    <rect x="-320" y="0" width="320" height="290" fill="url(#beam)">
-      <animate attributeName="x" from="-320" to="1012" dur="7s" repeatCount="indefinite"/>
-    </rect>
 
     <g font-family="Segoe UI,Helvetica,Arial,sans-serif">
-      <g opacity="0.9">
-        <rect x="60" y="48" width="192" height="26" rx="13" fill="#f0883e" fill-opacity="0.10"
-              stroke="#f0883e" stroke-opacity="0.45"/>
-        <text x="76" y="66" font-size="12" font-weight="600" fill="#f0883e" letter-spacing="1.8">
-          GEARS — SOFTWARE THAT FITS
-        </text>
+      <g>
+        <rect x="60.5" y="46.5" width="237.5" height="27" rx="13.5" fill="#f0883e"
+              fill-opacity="0.08" stroke="#f0883e" stroke-opacity="0.35"/>
+        <circle cx="76" cy="60" r="3" fill="#f0883e"/>
+        <text x="88" y="64.2" font-size="11.5" font-weight="600" fill="#f0883e"
+              textLength="196" lengthAdjust="spacingAndGlyphs">GEARS · SOFTWARE THAT FITS</text>
       </g>
 
-      <text x="58" y="146" font-size="56" font-weight="800" fill="url(#ink)" letter-spacing="2">
-        ISAAC ONYANGO
-      </text>
+      <text x="58" y="146" font-size="56" font-weight="800" letter-spacing="-0.5"
+            fill="#ffffff">ISAAC <tspan fill="#58a6ff">ONYANGO</tspan></text>
 
       <rect x="60" y="164" width="300" height="3" rx="1.5" fill="url(#rule)"/>
 

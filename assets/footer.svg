@@ -1,15 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1012" height="108"
      viewBox="0 0 1012 108" role="img" aria-label="Build it manually. Understand it deeply. Ship it cleanly.">
   <title>Build it manually. Understand it deeply. Ship it cleanly.</title>
+  <style>
+    .spin { transform-box: fill-box; transform-origin: center;
+            animation: spin linear infinite; }
+    .ccw  { animation-direction: reverse; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @media (prefers-reduced-motion: reduce) {
+      .spin, .sweep { animation: none; }
+    }
+  </style>
   <defs>
     <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#131a24"/>
       <stop offset="55%" stop-color="#0d1117"/>
       <stop offset="100%" stop-color="#07111f"/>
-    </linearGradient>
-    <linearGradient id="fink" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#f0883e"/>
-      <stop offset="100%" stop-color="#58a6ff"/>
     </linearGradient>
     <pattern id="fgrid" width="34" height="34" patternUnits="userSpaceOnUse">
       <path d="M34 0H0V34" fill="none" stroke="#58a6ff" stroke-opacity="0.05" stroke-width="1"/>
@@ -20,31 +25,35 @@
     <rect width="1012" height="108" fill="url(#fbg)"/>
     <rect width="1012" height="108" fill="url(#fgrid)"/>
 
-  <g transform="translate(930 54)" opacity="0.5">
-    <g>
-      <path d="M 35.00,0.00 L 45.89,3.15 L 44.92,9.91 L 33.58,9.86 L 32.76,12.32 L 29.44,18.92 L 36.90,27.46 L 32.43,32.62 L 22.92,26.45 L 20.89,28.08 L 14.54,31.84 L 16.20,43.05 L 9.65,44.98 L 4.98,34.64 L 2.40,34.92 L -4.98,34.64 L -9.65,44.98 L -16.20,43.05 L -14.54,31.84 L -16.86,30.67 L -22.92,26.45 L -32.43,32.62 L -36.90,27.46 L -29.44,18.92 L -30.77,16.69 L -33.58,9.86 L -44.92,9.91 L -45.89,3.15 L -35.00,-0.00 L -34.90,-2.60 L -33.58,-9.86 L -43.15,-15.95 L -40.31,-22.16 L -29.44,-18.92 L -27.96,-21.05 L -22.92,-26.45 L -27.67,-36.75 L -21.93,-40.44 L -14.54,-31.84 L -12.14,-32.83 L -4.98,-34.64 L -3.41,-45.87 L 3.41,-45.87 L 4.98,-34.64 L 7.54,-34.18 L 14.54,-31.84 L 21.93,-40.44 L 27.67,-36.75 L 22.92,-26.45 L 24.82,-24.68 L 29.44,-18.92 L 40.31,-22.16 L 43.15,-15.95 L 33.58,-9.86 L 34.22,-7.34 Z" fill="none" stroke="#58a6ff" stroke-width="2.2"
-            stroke-linejoin="round"/>
-      <circle r="16.0" fill="none" stroke="#58a6ff" stroke-width="2.2"/>
-      <circle r="5.1" fill="#58a6ff" fill-opacity="0.5"/>
-      <animateTransform attributeName="transform" type="rotate"
-        from="0 0 0" to="360 0 0" dur="22s" repeatCount="indefinite"/>
+  <g transform="translate(944.00 54.00) rotate(0.000)"
+     opacity="0.55">
+    <g class="spin" style="animation-duration:36s">
+      <circle r="41.00" fill="none"/>
+      <path d="M 30.86,-2.92 L 39.96,-1.68 L 39.96,1.68 L 30.86,2.92 L 30.00,7.81 L 38.13,12.09 L 36.98,15.24 L 28.00,13.30 L 25.52,17.60 L 31.69,24.41 L 29.54,26.97 L 21.77,22.07 L 17.96,25.27 L 21.43,33.77 L 18.53,35.45 L 12.90,28.19 L 8.23,29.89 L 8.59,39.07 L 5.29,39.65 L 2.49,30.90 L -2.49,30.90 L -5.29,39.65 L -8.59,39.07 L -8.23,29.89 L -12.90,28.19 L -18.53,35.45 L -21.43,33.77 L -17.96,25.27 L -21.77,22.07 L -29.54,26.97 L -31.69,24.41 L -25.52,17.60 L -28.00,13.30 L -36.98,15.24 L -38.13,12.09 L -30.00,7.81 L -30.86,2.92 L -39.96,1.68 L -39.96,-1.68 L -30.86,-2.92 L -30.00,-7.81 L -38.13,-12.09 L -36.98,-15.24 L -28.00,-13.30 L -25.52,-17.60 L -31.69,-24.41 L -29.54,-26.97 L -21.77,-22.07 L -17.96,-25.27 L -21.43,-33.77 L -18.53,-35.45 L -12.90,-28.19 L -8.23,-29.89 L -8.59,-39.07 L -5.29,-39.65 L -2.49,-30.90 L 2.49,-30.90 L 5.29,-39.65 L 8.59,-39.07 L 8.23,-29.89 L 12.90,-28.19 L 18.53,-35.45 L 21.43,-33.77 L 17.96,-25.27 L 21.77,-22.07 L 29.54,-26.97 L 31.69,-24.41 L 25.52,-17.60 L 28.00,-13.30 L 36.98,-15.24 L 38.13,-12.09 L 30.00,-7.81 Z" fill="#58a6ff" fill-opacity="0.07" stroke="#58a6ff"
+            stroke-width="2" stroke-linejoin="round"/>
+      <circle r="23.20" fill="none" stroke="#58a6ff" stroke-opacity="0.35" stroke-width="1.2"/>
+      <circle r="12.24" fill="none" stroke="#58a6ff" stroke-width="2"/>
+      <rect x="-1.80" y="-13.04" width="3.60"
+            height="3.60" rx="0.80" fill="#58a6ff" fill-opacity="0.8"/>
+      <circle r="4.65" fill="#58a6ff" fill-opacity="0.55"/>
     </g>
   </g>
-
-  <g transform="translate(872 96)" opacity="0.45">
-    <g>
-      <path d="M 20.00,0.00 L 26.88,2.54 L 25.81,7.94 L 18.48,7.65 L 17.60,9.50 L 14.14,14.14 L 17.21,20.80 L 12.63,23.86 L 7.65,18.48 L 5.73,19.16 L 0.00,20.00 L -2.54,26.88 L -7.94,25.81 L -7.65,18.48 L -9.50,17.60 L -14.14,14.14 L -20.80,17.21 L -23.86,12.63 L -18.48,7.65 L -19.16,5.73 L -20.00,0.00 L -26.88,-2.54 L -25.81,-7.94 L -18.48,-7.65 L -17.60,-9.50 L -14.14,-14.14 L -17.21,-20.80 L -12.63,-23.86 L -7.65,-18.48 L -5.73,-19.16 L -0.00,-20.00 L 2.54,-26.88 L 7.94,-25.81 L 7.65,-18.48 L 9.50,-17.60 L 14.14,-14.14 L 20.80,-17.21 L 23.86,-12.63 L 18.48,-7.65 L 19.16,-5.73 Z" fill="none" stroke="#f0883e" stroke-width="2.2"
-            stroke-linejoin="round"/>
-      <circle r="9.0" fill="none" stroke="#f0883e" stroke-width="2.2"/>
-      <circle r="2.9" fill="#f0883e" fill-opacity="0.5"/>
-      <animateTransform attributeName="transform" type="rotate"
-        from="360 0 0" to="0 0 0" dur="15s" repeatCount="indefinite"/>
+  <g transform="translate(886.00 54.00) rotate(343.636)"
+     opacity="0.55">
+    <g class="spin ccw" style="animation-duration:22s">
+      <circle r="27.00" fill="none"/>
+      <path d="M 16.80,-2.61 L 25.94,-1.78 L 25.94,1.78 L 16.80,2.61 L 15.54,6.88 L 22.78,12.53 L 20.86,15.52 L 12.72,11.28 L 9.35,14.20 L 12.40,22.86 L 9.16,24.33 L 4.60,16.37 L 0.19,17.00 L -1.93,25.93 L -5.45,25.42 L -4.98,16.26 L -9.03,14.41 L -15.64,20.77 L -18.33,18.44 L -12.97,10.99 L -15.38,7.24 L -24.39,9.02 L -25.39,5.60 L -16.85,2.23 L -16.85,-2.23 L -25.39,-5.60 L -24.39,-9.02 L -15.38,-7.24 L -12.97,-10.99 L -18.33,-18.44 L -15.64,-20.77 L -9.03,-14.41 L -4.98,-16.26 L -5.45,-25.42 L -1.93,-25.93 L 0.19,-17.00 L 4.60,-16.37 L 9.16,-24.33 L 12.40,-22.86 L 9.35,-14.20 L 12.72,-11.28 L 20.86,-15.52 L 22.78,-12.53 L 15.54,-6.88 Z" fill="#f0883e" fill-opacity="0.07" stroke="#f0883e"
+            stroke-width="2" stroke-linejoin="round"/>
+      
+      <circle r="7.48" fill="none" stroke="#f0883e" stroke-width="2"/>
+      <rect x="-1.80" y="-8.28" width="3.60"
+            height="3.60" rx="0.80" fill="#f0883e" fill-opacity="0.8"/>
+      <circle r="2.84" fill="#f0883e" fill-opacity="0.55"/>
     </g>
   </g>
     <text x="44" y="52" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="19"
-          font-weight="700" fill="url(#fink)" letter-spacing="1.1">
-      Build it manually. Understand it deeply. Ship it cleanly.
-    </text>
+          font-weight="700" fill="#e6edf3">Build it manually. Understand it deeply. <tspan
+          fill="#58a6ff">Ship it cleanly.</tspan></text>
     <text x="44" y="76" font-family="Consolas,monospace" font-size="12" fill="#8b949e">
       GEARS &#183; Nairobi, Kenya &#183; isaaco62800@gmail.com
     </text>
