@@ -37,7 +37,7 @@ cleanly.
 | | |
 |:--|:--|
 | **Focus** | Full-stack product work — TypeScript front ends on Python and Node services |
-| **Latest work** | <!-- LATEST:START -->[Internet-Download-Hub](https://github.com/Isaac-Onyango-Dev/Internet-Download-Hub) — Internet Download Hub is a free Windows desktop application that lets you download…<!-- LATEST:END --> |
+| **Latest work** | <!-- LATEST:START -->[StreamDock](https://github.com/Isaac-Onyango-Dev/StreamDock) — Desktop-only Electron app for downloading videos and capturing live streams with…<!-- LATEST:END --> |
 | **Studying** | TVET CDACC KNQF Level 6, Computer Science · distributed systems · applied ML |
 | **Also** | Graphic design, motion and original manga worldbuilding |
 | **Based in** | Nairobi, Kenya 🇰🇪 |
@@ -82,6 +82,17 @@ This is the official complex developers website where we offer a vast majority o
 <tr>
 <td width="50%" valign="top">
 
+#### [StreamDock](https://github.com/Isaac-Onyango-Dev/StreamDock)
+
+Desktop-only Electron app for downloading videos and capturing live streams with yt-dlp and ffmpeg
+
+`TypeScript` &nbsp;·&nbsp; `cross-platform` `downloader` `electron`
+
+<a href="https://github.com/Isaac-Onyango-Dev/StreamDock"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://isaac-onyango-dev.github.io/StreamDock/"><img src="https://img.shields.io/badge/Live%20Demo-3178C6?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
+
+</td>
+<td width="50%" valign="top">
+
 #### [My-Portfolio](https://github.com/Isaac-Onyango-Dev/My-Portfolio)
 
 Isaac Onyango's Portfolio
@@ -91,6 +102,8 @@ Isaac Onyango's Portfolio
 <a href="https://github.com/Isaac-Onyango-Dev/My-Portfolio"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://isaac-onyango-dev.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Live%20Demo-F7DF1E?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### [MediaGrab](https://github.com/Isaac-Onyango-Dev/MediaGrab)
@@ -102,8 +115,6 @@ MediaGrab is a universal video and audio downloader packaged as a native app for
 <a href="https://github.com/Isaac-Onyango-Dev/MediaGrab"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://isaac-onyango-dev.github.io/MediaGrab/"><img src="https://img.shields.io/badge/Live%20Demo-3776AB?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### [Dovetail](https://github.com/Isaac-Onyango-Dev/Dovetail)
@@ -113,17 +124,6 @@ Dovetail reads the pad's raw HID reports directly, translates them, and presents
 `C#`
 
 <a href="https://github.com/Isaac-Onyango-Dev/Dovetail"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://isaac-onyango-dev.github.io/Dovetail/"><img src="https://img.shields.io/badge/Live%20Demo-6E7681?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-#### [StreamDock](https://github.com/Isaac-Onyango-Dev/StreamDock)
-
-Desktop-only Electron app for downloading videos and capturing live streams with yt-dlp and ffmpeg
-
-`TypeScript` &nbsp;·&nbsp; `cross-platform` `downloader` `electron`
-
-<a href="https://github.com/Isaac-Onyango-Dev/StreamDock"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://isaac-onyango-dev.github.io/StreamDock/"><img src="https://img.shields.io/badge/Live%20Demo-3178C6?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
 
 </td>
 </tr>
@@ -172,12 +172,12 @@ No description yet.
 <summary><b>Latest activity</b></summary>
 
 <!-- ACTIVITY:START -->
+- `20 Sep` &nbsp; Pushed to **[StreamDock](https://github.com/Isaac-Onyango-Dev/StreamDock)**
 - `17 Sep` &nbsp; Pushed to **[Internet-Download-Hub](https://github.com/Isaac-Onyango-Dev/Internet-Download-Hub)**
 - `17 Sep` &nbsp; Pushed to **[My-Portfolio](https://github.com/Isaac-Onyango-Dev/My-Portfolio)**
 - `17 Sep` &nbsp; Pushed to **[MediaGrab](https://github.com/Isaac-Onyango-Dev/MediaGrab)**
 - `16 Sep` &nbsp; Pushed to **[Dovetail](https://github.com/Isaac-Onyango-Dev/Dovetail)**
 - `14 Sep` &nbsp; Opened an issue in **[StreamDock](https://github.com/Isaac-Onyango-Dev/StreamDock)**
-- `11 Sep` &nbsp; Pushed to **[StreamDock](https://github.com/Isaac-Onyango-Dev/StreamDock)**
 <!-- ACTIVITY:END -->
 
 </details>

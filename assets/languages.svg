@@ -12,17 +12,17 @@
 <rect x="22" y="44" width="34" height="2.5" rx="1.25" fill="#f0883e"/>
 <rect x="60" y="44" width="418" height="2.5" rx="1.25" fill="#58a6ff" fill-opacity="0.18"/>
 <clipPath id="barclip"><rect x="22.0" y="64.0" width="456.0" height="13" rx="6.5"/></clipPath>
-<rect x="22.00" y="64.0" width="237.44" height="13" fill="#3178c6" clip-path="url(#barclip)"/>
-<rect x="258.84" y="64.0" width="72.83" height="13" fill="#178600" clip-path="url(#barclip)"/>
-<rect x="331.07" y="64.0" width="54.72" height="13" fill="#c6538c" clip-path="url(#barclip)"/>
-<rect x="385.19" y="64.0" width="40.98" height="13" fill="#3572a5" clip-path="url(#barclip)"/>
-<rect x="425.58" y="64.0" width="18.94" height="13" fill="#663399" clip-path="url(#barclip)"/>
-<rect x="443.92" y="64.0" width="16.32" height="13" fill="#f1e05a" clip-path="url(#barclip)"/>
-<rect x="459.64" y="64.0" width="14.70" height="13" fill="#e34c26" clip-path="url(#barclip)"/>
-<rect x="473.74" y="64.0" width="4.86" height="13" fill="#58a6ff" clip-path="url(#barclip)"/>
+<rect x="22.00" y="64.0" width="237.64" height="13" fill="#3178c6" clip-path="url(#barclip)"/>
+<rect x="259.04" y="64.0" width="72.76" height="13" fill="#178600" clip-path="url(#barclip)"/>
+<rect x="331.20" y="64.0" width="54.68" height="13" fill="#c6538c" clip-path="url(#barclip)"/>
+<rect x="385.28" y="64.0" width="40.95" height="13" fill="#3572a5" clip-path="url(#barclip)"/>
+<rect x="425.63" y="64.0" width="18.93" height="13" fill="#663399" clip-path="url(#barclip)"/>
+<rect x="443.95" y="64.0" width="16.30" height="13" fill="#f1e05a" clip-path="url(#barclip)"/>
+<rect x="459.65" y="64.0" width="14.69" height="13" fill="#e34c26" clip-path="url(#barclip)"/>
+<rect x="473.75" y="64.0" width="4.85" height="13" fill="#58a6ff" clip-path="url(#barclip)"/>
 <circle cx="27.0" cy="108" r="5" fill="#3178c6"/>
 <text x="39.0" y="112" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#c9d1d9">TypeScript</text>
-<text x="234.0" y="112" text-anchor="end" font-family="Consolas,monospace" font-size="11.5" fill="#7d8590">51.9%</text>
+<text x="234.0" y="112" text-anchor="end" font-family="Consolas,monospace" font-size="11.5" fill="#7d8590">52.0%</text>
 <circle cx="255.0" cy="108" r="5" fill="#178600"/>
 <text x="267.0" y="112" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#c9d1d9">C#</text>
 <text x="462.0" y="112" text-anchor="end" font-family="Consolas,monospace" font-size="11.5" fill="#7d8590">15.8%</text>
@@ -31,7 +31,7 @@
 <text x="234.0" y="142" text-anchor="end" font-family="Consolas,monospace" font-size="11.5" fill="#7d8590">11.9%</text>
 <circle cx="255.0" cy="138" r="5" fill="#3572a5"/>
 <text x="267.0" y="142" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#c9d1d9">Python</text>
-<text x="462.0" y="142" text-anchor="end" font-family="Consolas,monospace" font-size="11.5" fill="#7d8590">8.9%</text>
+<text x="462.0" y="142" text-anchor="end" font-family="Consolas,monospace" font-size="11.5" fill="#7d8590">8.8%</text>
 <circle cx="27.0" cy="168" r="5" fill="#663399"/>
 <text x="39.0" y="172" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#c9d1d9">CSS</text>
 <text x="234.0" y="172" text-anchor="end" font-family="Consolas,monospace" font-size="11.5" fill="#7d8590">4.0%</text>
