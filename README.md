@@ -37,7 +37,7 @@ cleanly.
 | | |
 |:--|:--|
 | **Focus** | Full-stack product work — TypeScript front ends on Python and Node services |
-| **Latest work** | <!-- LATEST:START -->[ScamShield](https://github.com/Isaac-Onyango-Dev/ScamShield) — This app helps users detect and report suspicious online job and service scams<!-- LATEST:END --> |
+| **Latest work** | <!-- LATEST:START -->[Internet-Download-Hub](https://github.com/Isaac-Onyango-Dev/Internet-Download-Hub) — Internet Download Hub is a free Windows desktop application that lets you download…<!-- LATEST:END --> |
 | **Studying** | TVET CDACC KNQF Level 6, Computer Science · distributed systems · applied ML |
 | **Also** | Graphic design, motion and original manga worldbuilding |
 | **Based in** | Nairobi, Kenya 🇰🇪 |
