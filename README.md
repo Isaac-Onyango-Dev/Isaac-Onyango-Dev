@@ -37,7 +37,7 @@ cleanly.
 | | |
 |:--|:--|
 | **Focus** | Full-stack product work — TypeScript front ends on Python and Node services |
-| **Latest work** | <!-- LATEST:START -->[Internet-Download-Hub](https://github.com/Isaac-Onyango-Dev/Internet-Download-Hub) — Internet Download Hub is a free Windows desktop application that lets you download…<!-- LATEST:END --> |
+| **Latest work** | <!-- LATEST:START -->[Internet-Download-Hub-Pro](https://github.com/Isaac-Onyango-Dev/Internet-Download-Hub-Pro)<!-- LATEST:END --> |
 | **Studying** | TVET CDACC KNQF Level 6, Computer Science · distributed systems · applied ML |
 | **Also** | Graphic design, motion and original manga worldbuilding |
 | **Based in** | Nairobi, Kenya 🇰🇪 |
@@ -82,17 +82,6 @@ This is the official complex developers website where we offer a vast majority o
 <tr>
 <td width="50%" valign="top">
 
-#### [StreamDock](https://github.com/Isaac-Onyango-Dev/StreamDock)
-
-Desktop-only Electron app for downloading videos and capturing live streams with yt-dlp and ffmpeg
-
-`TypeScript` &nbsp;·&nbsp; `cross-platform` `downloader` `electron`
-
-<a href="https://github.com/Isaac-Onyango-Dev/StreamDock"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://isaac-onyango-dev.github.io/StreamDock/"><img src="https://img.shields.io/badge/Live%20Demo-3178C6?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
-
-</td>
-<td width="50%" valign="top">
-
 #### [Internet-Download-Hub-Pro](https://github.com/Isaac-Onyango-Dev/Internet-Download-Hub-Pro)
 
 No description yet.
@@ -100,6 +89,17 @@ No description yet.
 `Mixed`
 
 <a href="https://github.com/Isaac-Onyango-Dev/Internet-Download-Hub-Pro"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+#### [StreamDock](https://github.com/Isaac-Onyango-Dev/StreamDock)
+
+Desktop-only Electron app for downloading videos and capturing live streams with yt-dlp and ffmpeg
+
+`TypeScript` &nbsp;·&nbsp; `cross-platform` `downloader` `electron`
+
+<a href="https://github.com/Isaac-Onyango-Dev/StreamDock"><img src="https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white" alt="Source"/></a> <a href="https://isaac-onyango-dev.github.io/StreamDock/"><img src="https://img.shields.io/badge/Live%20Demo-3178C6?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
 
 </td>
 </tr>
@@ -182,9 +182,9 @@ No description yet.
 <summary><b>Latest activity</b></summary>
 
 <!-- ACTIVITY:START -->
+- `06 Oct` &nbsp; Pushed to **[Internet-Download-Hub-Pro](https://github.com/Isaac-Onyango-Dev/Internet-Download-Hub-Pro)**
 - `01 Oct` &nbsp; Pushed to **[Internet-Download-Hub](https://github.com/Isaac-Onyango-Dev/Internet-Download-Hub)**
 - `01 Oct` &nbsp; Pushed to **[StreamDock](https://github.com/Isaac-Onyango-Dev/StreamDock)**
-- `01 Oct` &nbsp; Pushed to **[Internet-Download-Hub-Pro](https://github.com/Isaac-Onyango-Dev/Internet-Download-Hub-Pro)**
 - `24 Sep` &nbsp; Pushed to **[ScamShield](https://github.com/Isaac-Onyango-Dev/ScamShield)**
 - `24 Sep` &nbsp; Pushed to **[MediaGrab](https://github.com/Isaac-Onyango-Dev/MediaGrab)**
 - `17 Sep` &nbsp; Pushed to **[My-Portfolio](https://github.com/Isaac-Onyango-Dev/My-Portfolio)**
