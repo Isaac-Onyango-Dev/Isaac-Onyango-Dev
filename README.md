@@ -187,7 +187,6 @@ No description yet.
 - `05 Oct` &nbsp; Pushed to **[Internet-Download-Hub](https://github.com/Isaac-Onyango-Dev/Internet-Download-Hub)**
 - `24 Sep` &nbsp; Pushed to **[ScamShield](https://github.com/Isaac-Onyango-Dev/ScamShield)**
 - `24 Sep` &nbsp; Pushed to **[MediaGrab](https://github.com/Isaac-Onyango-Dev/MediaGrab)**
-- `16 Sep` &nbsp; Pushed to **[Dovetail](https://github.com/Isaac-Onyango-Dev/Dovetail)**
 <!-- ACTIVITY:END -->
 
 </details>
