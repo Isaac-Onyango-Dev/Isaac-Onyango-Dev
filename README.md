@@ -185,8 +185,6 @@ No description yet.
 - `07 Oct` &nbsp; Pushed to **[StreamDock](https://github.com/Isaac-Onyango-Dev/StreamDock)**
 - `06 Oct` &nbsp; Pushed to **[Internet-Download-Hub-Pro](https://github.com/Isaac-Onyango-Dev/Internet-Download-Hub-Pro)**
 - `05 Oct` &nbsp; Pushed to **[Internet-Download-Hub](https://github.com/Isaac-Onyango-Dev/Internet-Download-Hub)**
-- `24 Sep` &nbsp; Pushed to **[ScamShield](https://github.com/Isaac-Onyango-Dev/ScamShield)**
-- `24 Sep` &nbsp; Pushed to **[MediaGrab](https://github.com/Isaac-Onyango-Dev/MediaGrab)**
 <!-- ACTIVITY:END -->
 
 </details>
