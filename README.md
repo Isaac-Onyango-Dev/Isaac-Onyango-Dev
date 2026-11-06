@@ -183,7 +183,6 @@ No description yet.
 
 <!-- ACTIVITY:START -->
 - `07 Oct` &nbsp; Pushed to **[StreamDock](https://github.com/Isaac-Onyango-Dev/StreamDock)**
-- `05 Oct` &nbsp; Pushed to **[Internet-Download-Hub](https://github.com/Isaac-Onyango-Dev/Internet-Download-Hub)**
 <!-- ACTIVITY:END -->
 
 </details>
