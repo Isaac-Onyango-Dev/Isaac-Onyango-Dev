@@ -182,7 +182,7 @@ No description yet.
 <summary><b>Latest activity</b></summary>
 
 <!-- ACTIVITY:START -->
-- `07 Oct` &nbsp; Pushed to **[StreamDock](https://github.com/Isaac-Onyango-Dev/StreamDock)**
+- Nothing public in the last few weeks.
 <!-- ACTIVITY:END -->
 
 </details>
